@@ -29,6 +29,6 @@ in `device_name` your device;<br>
 
 📌  To change the word at the top: edit HEADER file with whatever you want<br>
 
-📌 There is an alias in my file: if you run "icons" you will see all icons in the included font.
+📌 There is an alias in my file: if you type `icons` you will see all icons in the included font.
 
 ================================================================
