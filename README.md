@@ -8,7 +8,7 @@ T-UI and T-UI Expert themes collections made by community.
 
 <img src="https://github.com/M4dGun/t-ui_themes/blob/main/Screenshot_DRACULA_1.jpg" data-canonical-src="https://github.com/M4dGun/t-ui_themes/blob/main/Screenshot_DRACULA_1.jpg" width="300" />
 
-**[Dracula info](https://github.com/M4dGun/t-ui_themes/blob/main/Dracula_readme)**<br>
+**[Dracula info](https://github.com/M4dGun/t-ui_themes/blob/main/Dracula_theme/README.md)**<br>
 
 
 ## Useful links
