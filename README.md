@@ -18,8 +18,7 @@ T-UI and T-UI Expert themes collections made by community!!!
 `cd t-ui && mkdir THEMES`
 
 2) Add an alias to download themes without typing the full URL, type:<br>
-`alias -add /theme curl -O https://github.com/M4dGun/t-ui_themes/raw/main/%`
-
+`alias -add /theme curl -O https://github.com/M4dGun/t-ui_themes/tree/main/database/%`
 
 2) add the contents of this file to your t-ui/alias.txt 
 
