@@ -15,7 +15,7 @@ T-UI and T-UI Expert themes collections made by community!!!
 (Work In Progress...)
 
 1) Create a "THEMES" folder inside t-ui/ directory where you can download themes, type: <br>
-`cd /storage/emulated/0/t-ui && mkdir THEMES`
+`cd /storage/emulated/0/t-ui && mkdir THEMES && cd /storage/emulated/0`
 
 2) Add an alias to download themes without typing the full URL, type:<br>
 `alias -add /theme cd /storage/emulated/0/t-ui/THEMES && curl -O https://github.com/M4dGun/t-ui_themes/tree/main/database/%`
