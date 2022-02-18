@@ -18,8 +18,12 @@ Instagram<br>
 Gmail<br>
 Spotify<br>
 Twitch<br>
+<br>
+<img src="https://github.com/M4dGun/t-ui_themes/blob/main/Dracula_theme/Screenshot_DRACULA_4.jpg" data-canonical-src="https://github.com/M4dGun/t-ui_themes/blob/main/Dracula_theme/Screenshot_DRACULA_4.jpg" width="250" /><br>
+<br>
 
-📌  If you want to view the above applications as icons, as shown in the screenshot, rename alias_dracula.txt to alias.txt - making a backup of your previously created aliases!<br>
+
+📌  If you want to view the above applications as icons at the bottom (toolbar), as shown in the [screenshot](https://github.com/M4dGun/t-ui_themes/blob/main/Dracula_theme/Screenshot_DRACULA_1.jpg), rename alias_dracula.txt to alias.txt - making a backup of your previously created aliases!<br>
 N.B. it is likely that you will have to change some names of some applications in alias.txt (for example for gallery app, because I use a MIUI OS)<br>
 
 📌  REMEMBER TO ADD:<br>
@@ -31,4 +35,4 @@ in `device_name` your device;<br>
 
 📌 There is an alias in my file: if you type `icons` you will see all icons in the included font.
 
-================================================================
+=================================
