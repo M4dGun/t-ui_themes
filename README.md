@@ -3,13 +3,24 @@ T-UI and T-UI Expert themes collections made by community.
 
 ## THEMES
 
-### ■ DRACULA ■
+### ■ DRACULA<br>
 *(credits: GOV and me)*
 
 <img src="https://github.com/M4dGun/t-ui_themes/blob/main/Dracula_theme/Screenshot_DRACULA_1.jpg" data-canonical-src="https://github.com/M4dGun/t-ui_themes/blob/main/Dracula_theme/Screenshot_DRACULA_1.jpg" width="300" />
 
 **[Dracula info](https://github.com/M4dGun/t-ui_themes/blob/main/Dracula_theme/README.md)**<br>
 **[Dracula download](https://github.com/M4dGun/t-ui_themes/raw/main/Dracula_theme/DRACULA_THEME_2022.zip)**<br>
+____________________________
+
+### ■ GRID<br>
+*(credits: Gavin Smith)*
+
+<img src="https://github.com/M4dGun/t-ui_themes/blob/main/Grid_theme/screenshot_GRID.jpg" data-canonical-src="https://github.com/M4dGun/t-ui_themes/blob/main/Grid_theme/screenshot_GRID.jpg" width="300" />
+
+**[Grid download](https://github.com/M4dGun/t-ui_themes/raw/main/Grid_theme/t-ui_grid.zip)**<br>
+____________________________
+
+
 
 ## Useful links
 
