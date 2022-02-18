@@ -28,7 +28,10 @@ T-UI and T-UI Expert themes collections made by community!!!
 4) Add another alias to display available themes:
 `alias -add /themes_list cat /storage/emulated/0/t-ui/THEMES/db`
 
-add the contents of this file to your t-ui/alias.txt 
+5) Refresh T-UI:
+`refresh`
+
+6)
 
 
 
