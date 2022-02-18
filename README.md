@@ -10,6 +10,7 @@ T-UI and T-UI Expert themes collections made by community.
 
 **[Dracula info](https://github.com/M4dGun/t-ui_themes/blob/main/Dracula_theme/README.md)**<br>
 **[Dracula download](https://github.com/M4dGun/t-ui_themes/raw/main/Dracula_theme/DRACULA_THEME_2022.zip)**<br>
+**[Wallpaper](https://github.com/M4dGun/t-ui_themes/raw/main/Dracula_theme/Dracula_wallpaper.png)**<br>
 ____________________________
 
 ### ■ GRID<br>
@@ -18,6 +19,8 @@ ____________________________
 <img src="https://github.com/M4dGun/t-ui_themes/blob/main/Grid_theme/screenshot_GRID.jpg" data-canonical-src="https://github.com/M4dGun/t-ui_themes/blob/main/Grid_theme/screenshot_GRID.jpg" width="300" />
 
 **[Grid download](https://github.com/M4dGun/t-ui_themes/raw/main/Grid_theme/t-ui_grid.zip)**<br>
+**[Wallpaper 1](https://github.com/M4dGun/t-ui_themes/raw/main/Grid_theme/Grid_wallpaper_1.jpg)**<br>
+**[Wallpaper 2](https://github.com/M4dGun/t-ui_themes/raw/main/Grid_theme/Grid_wallpaper_2.jpg)**<br>
 ____________________________
 
 ### ■ WallX<br>
@@ -26,6 +29,7 @@ ____________________________
 <img src="https://github.com/M4dGun/t-ui_themes/blob/main/WallX_theme/screenshot_WallX.jpg" data-canonical-src="https://github.com/M4dGun/t-ui_themes/blob/main/WallX_theme/screenshot_WallX.jpg" width="300" />
 
 **[WallX download](https://github.com/M4dGun/t-ui_themes/raw/main/WallX_theme/t-ui_WallX.zip)**<br>
+**[Wallpaper](https://github.com/M4dGun/t-ui_themes/raw/main/WallX_theme/WallX_Wallpaper_1440x2560.jpeg)**<br>
 ____________________________
 
 ### ■ TOMBOY GIRL<br>
@@ -34,14 +38,8 @@ ____________________________
 <img src="https://github.com/M4dGun/t-ui_themes/blob/main/Tomboy.girl_theme/screenshot_tomboy_girl.jpg" data-canonical-src="https://github.com/M4dGun/t-ui_themes/blob/main/Tomboy.girl_theme/screenshot_tomboy_girl.jpg" width="300" />
 
 **[Tomboy Girl download](https://github.com/M4dGun/t-ui_themes/raw/main/Tomboy.girl_theme/t-ui_tomboy_girl.rar)**<br>
-**[Tomboy Girl wallpaper](https://github.com/M4dGun/t-ui_themes/raw/main/Tomboy.girl_theme/Tomboy.girl_wallpaper.jpg)**<br>
+**[Wallpaper](https://github.com/M4dGun/t-ui_themes/raw/main/Tomboy.girl_theme/Tomboy.girl_wallpaper.jpg)**<br>
 ____________________________
-
-
-
-
-
-https://github.com/M4dGun/t-ui_themes/blob/main/Tomboy.girl_theme/screenshot_tomboy_girl.jpg
 
 
 ## Useful links
