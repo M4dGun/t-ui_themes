@@ -10,6 +10,16 @@ T-UI and T-UI Expert themes collections made by community!!!
 **NEW Themes group**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-->&nbsp;&nbsp;&nbsp;**[Telegram](https://t.me/t_ui_themes_v2)**<br>
 **OLD Themes group**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-->&nbsp;&nbsp;&nbsp;&nbsp;**[Telegram](https://t.me/T_uiThemes)**<br>
 <br>
+
+## How download themes directly from TUI
+(Work In Progress...)
+
+1) type: 
+`cd t-ui && mkdir THEMES`
+
+2) add the contents of this file to your t-ui/alias.txt 
+
+
 ## THEMES COLLECTIONS
 
 ### ■ DRACULA<br>
