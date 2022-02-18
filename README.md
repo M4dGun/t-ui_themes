@@ -20,6 +20,14 @@ ____________________________
 **[Grid download](https://github.com/M4dGun/t-ui_themes/raw/main/Grid_theme/t-ui_grid.zip)**<br>
 ____________________________
 
+### ■ WallX<br>
+*(credits: S̵̓t̴͝ë̸́v̴̐e̸̒)*
+
+<img src="https://github.com/M4dGun/t-ui_themes/blob/main/WallX_theme/screenshot_WallX.jpg" data-canonical-src="https://github.com/M4dGun/t-ui_themes/blob/main/WallX_theme/screenshot_WallX.jpg" width="300" />
+
+**[WallX download](https://github.com/M4dGun/t-ui_themes/raw/main/WallX_theme/t-ui_WallX.zip)**<br>
+____________________________
+
 
 
 ## Useful links
