@@ -25,15 +25,15 @@ T-UI and T-UI Expert themes collections made by community!!!
 3) Download database of available themes:
  `cd /storage/emulated/0/t-ui/THEMES && curl -LJO https://github.com/M4dGun/t-ui_themes/raw/main/database/db && cd /storage/emulated/0/`
 
-4) Add another alias to display available themes:
+4) Add another alias to display available themes:<br>
 `alias -add /themes_list cat /storage/emulated/0/t-ui/THEMES/db`
 
 5) Refresh T-UI:
 `refresh`
 
-6)
+6) Now you have 2 new aliases: /themes and /themes_list: with the second one you can display all available themes in this repository
 
-
+[....WIP....]
 
 
 
