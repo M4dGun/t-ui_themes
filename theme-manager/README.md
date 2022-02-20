@@ -3,12 +3,15 @@
 ```
 curl -L https://github.com/aruncs31s/t-ui_themes/blob/main/theme-manager/theme-manager.sh?raw=true -o /storage/emulated/0/theme-manager.sh
 
-alias -add theme-manager sh /storage/emulated/0/theme-manager.sh %
+alias -add tui-theme sh /storage/emulated/0/theme-manager.sh %
 ```
 ### update the script
+
 ```
+curl -L https://github.com/aruncs31s/t-ui_themes/blob/main/theme-manager/theme-manager.sh?raw=true -o /storage/emulated/0/theme-manager.sh
+
 after the installition check the version using
-theme-manager --version
+tui-theme --version
 remove old script before updating
 rm /sdcard/theme-manager.sh
 ```
