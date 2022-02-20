@@ -1,5 +1,7 @@
 # T-UI themes
 T-UI and T-UI Expert themes collections made by community!!!
+<br />
+to install theme-manager [theme-manager](https://github.com/aruncs31s/t-ui_themes/tree/main/theme-manager).
 <br>
 ## Useful links
 **Official Group**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-->&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[Telegram](https://t.me/tuilauncher)**<br>
