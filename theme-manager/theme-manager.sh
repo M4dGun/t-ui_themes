@@ -18,6 +18,7 @@ echo "T-ui Expert Theme Manager"
 tui=/storage/emulated/0/t-ui
 sd=/storage/emulated/0
 sdt=/storage/emulated/0/tui-themes
+arunsconst=/storage/emulated/0/tui-themes
 ######
 theme1=DRACULA_THEME_2022
 theme2=Grid_theme
@@ -28,8 +29,9 @@ theme_5=ff
 usage(){
 printf "Usage \ntui-theme show <to --show the list of themes>\ntui-theme number_of_the_theme \nfor example tui-theme 1 <this will install DRACULA_THEME_2022"
 }
+
 if [[ $sdt ]]; then
-	echo "Updating " ; sleep 3.0
+	echo "tui-themes alrey exist " ; sleep 3.0
 	else
 	mkdir $sdt &>/dev/null
 	fi
@@ -54,10 +56,10 @@ install_1(){
 	printf "\nNow type restart in t-ui \n"
 }
 install_2(){
+	mkdir $arunsconst
 	mv $tui $sd/tui.bak &>/dev/null
 	printf "\nDownloading theme .. Waite it will take time\n" ;
     if [[(-f /bin/curl )]]; then 
-        
         cd $sdt && curl -LO https://github.com/M4dGun/t-ui_themes/blob/main/Grid_theme/t-ui_grid.zip?raw=true >> $sdt/t-ui_grid.zip
 	printf "\nFinished Downloading\n"
     
