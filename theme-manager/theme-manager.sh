@@ -25,7 +25,7 @@ install_1(){
         cd /sdcard && wget https://github.com/M4dGun/t-ui_themes/raw/main/Dracula_theme/DRACULA_THEME_2022.zip
     
   fi
-    unzip -o  DRACULA_THEME_2022.zip -d $'t-ui' ; cd $tui/$theme1  && cp * $tui  ;
+    unzip -o  DRACULA_THEME_2022.zip -d $tui ; cd $tui/$theme1  && cp * $tui  ;
 }
 show(){
     printf "\n1.DRACULA_THEME\n"
