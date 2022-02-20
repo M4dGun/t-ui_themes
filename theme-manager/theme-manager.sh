@@ -59,18 +59,20 @@ install_2(){
 	mkdir $sdt &>/dev/null
 	fi
     mv $tui $sd/tui.bak &>/dev/null
+    
 	printf "\nDownloading theme .. Waite it will take time\n" ;
     if [[(-f /bin/curl )]]; then 
         
-        cd $sd && curl -LO https://github.com/M4dGun/t-ui_themes/blob/main/Grid_theme/t-ui_grid.zip
-
+        cd $sd && curl -LO https://github.com/M4dGun/t-ui_themes/blob/main/Grid_theme/t-ui_grid.zip?raw=true &>/dev/null
+	printf "\nFinished Downloading\n"
     
     else 
     
         cd $sd && wget https://github.com/M4dGun/t-ui_themes/blob/main/Grid_theme/t-ui_grid.zip &>/dev/null ;
     
   fi
-    unzip -o  t-ui_grid.zip -d $tui ; cd $tui/t-ui  && cp * $tui  ;
+  printf "\nInstalling ." ; sleep 0.5 ;printf "."  ; sleep 0.5 ;printf "."  ; sleep 0.5 ;printf "."  ; sleep 0.5 ;printf "."  ; sleep 0.5 ;printf "."  ; sleep 0.5 ;printf "."  ; sleep 0.5 ;printf "."  ; sleep 0.5 ;printf "."  ; sleep 0.5 ;printf "."  ; sleep 0.5 ;printf "."  ; sleep 0.5 ;printf "."  ; sleep 0.5 ;printf "." 
+  unzip -o  t-ui_grid.zip -d $tui ; cd $tui/t-ui  && cp * $tui  ;
 
 }
 show(){
