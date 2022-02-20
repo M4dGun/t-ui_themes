@@ -5,6 +5,16 @@
 ## Telegram : @killadinjan
 
 ## T-ui expert : T-ui  theme-manger 
+RED="$(printf '\033[31m')"
+GREEN="$(printf '\033[32m')"
+cat <<- EOF
+		${RED}┌─────────────────┐
+		${RED}│${GREEN} ###    #  # ### ${RED}│
+		${RED}│${GREEN}  #  ## #  #  #  ${RED}│
+		${RED}│${GREEN}  #     #### ### ${RED}│
+		${RED}└─────────────────┘
+	EOF
+
 echo "T-ui Expert Theme Manager"
 tui=/storage/emulated/0/t-ui
 sd=/storage/emulated/0
@@ -18,14 +28,15 @@ usage(){
 printf "Usage \ntui-theme show <to --show the list of themes>\ntui-theme number_of_the_theme \nfor example tui-theme 1 <this will install DRACULA_THEME_2022"
 }
 install_1(){
-	if [[ (-f $sdt) ]]; then
+	if [[ $sdt ]]; then
 	echo "Updating " ; sleep 3.0
 	else
-	mkdir $sdt
+	mkdir $sdt &>/dev/null
 	fi
-    	mv $tui $sd/tui.bak
-    	if [[(-f /bin/curl)]]; then 
-    
+    	mv $tui $sd/tui.bak &>/dev/null
+	printf "\nDownloading theme .. Waite it will take time\n" ;
+	if [[(-f /bin/curl)]]; then 
+	
         cd $sdt && curl -LJO https://github.com/M4dGun/t-ui_themes/raw/main/Dracula_theme/DRACULA_THEME_2022.zip
 
     	else 
