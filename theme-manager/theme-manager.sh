@@ -3,18 +3,16 @@
 ## Mail    : aruncs31sss@gmail.com
 ## Github  : @aruncs31s
 ## Telegram : @killadinjan
-
 ## T-ui expert : T-ui  theme-manger 
-RED="$(printf '\033[31m')"
-GREEN="$(printf '\033[32m')"
 cat <<- EOF
-		${RED}┌─────────────────┐
-		${RED}│${GREEN} ###    #  # ### ${RED}│
-		${RED}│${GREEN}  #  ## #  #  #  ${RED}│
-		${RED}│${GREEN}  #     #### ### ${RED}│
-		${RED}└─────────────────┘
-	EOF
+		#####  #  #  #####
+		  #    #  #    #
+		  #    #  #    #   
+		  #    ####  #####
 
+
+
+	EOF
 echo "T-ui Expert Theme Manager"
 tui=/storage/emulated/0/t-ui
 sd=/storage/emulated/0
