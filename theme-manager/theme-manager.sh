@@ -60,7 +60,7 @@ install_2(){
 	mv $tui $sd/tui.bak &>/dev/null
 	printf "\nDownloading theme .. Waite it will take time\n" ;
     if [[(-f /bin/curl )]]; then 
-        cd $sdt && curl -LO https://github.com/M4dGun/t-ui_themes/blob/main/Grid_theme/t-ui_grid.zip?raw=true >> $sdt/t-ui_grid.zip
+        cd $sdt && curl -LO https://github.com/M4dGun/t-ui_themes/blob/main/Grid_theme/t-ui_grid.zip?raw=true && mv $sdt/t-ui_grid.zip?raw=true t-ui_grid.zip
 	printf "\nFinished Downloading\n"
     
     else 
