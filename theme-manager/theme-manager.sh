@@ -1,4 +1,10 @@
-#!/bin/sh 
+#!/bin/sh
+## Author  : Arun cs (aruncs31s)
+## Mail    : aruncs31sss@gmail.com
+## Github  : @aruncs31s
+## Telegram : @killadinjan
+
+## Termux Desktop : Setup GUI in Termux 
 echo "T-ui Expert Theme Installer"
 tui=/storage/emulated/0/t-ui
 theme1=DRACULA_THEME_2022
