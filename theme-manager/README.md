@@ -1,4 +1,4 @@
-# T-ui launcher Theme-manager
+## Theme-manager
 ### installition
 ```
 curl -LOJ https://github.com/aruncs31s/t-ui_themes/blob/main/theme-manager/theme-manager.sh?raw=true /storage/emulated/0
