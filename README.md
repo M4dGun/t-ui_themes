@@ -1,8 +1,6 @@
 # T-UI themes
 T-UI and T-UI Expert themes collections made by community!!!
-<br />
-to install theme-manager [theme-manager](https://github.com/aruncs31s/t-ui_themes/tree/main/theme-manager).
-<br>
+
 ## Useful links
 **Official Group**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-->&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[Telegram](https://t.me/tuilauncher)**<br>
 **T-UI Wiki**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-->&nbsp;&nbsp;&nbsp;&nbsp;**[GitHub.com](https://github.com/Andre1299/TUI-ConsoleLauncher/wiki)**<br>
@@ -14,6 +12,14 @@ to install theme-manager [theme-manager](https://github.com/aruncs31s/t-ui_theme
 <br>
 
 ## THEMES COLLECTIONS
+
+[WORK IN PROGRESS]
+
+
+To install theme-manager: [theme-manager](https://github.com/aruncs31s/t-ui_themes/tree/main/theme-manager).
+<br>
+
+
 
 ### ■ DRACULA<br>
 *(credits: GOV and me)*
