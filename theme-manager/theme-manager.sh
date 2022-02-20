@@ -72,19 +72,42 @@ install_2(){
   unzip -o  $sdt/t-ui_grid.zip -d $tui ; cd $tui/t-ui  && cp -r * $tui  ;
 
 }
+install_3(){
+mkdir $arunsconst
+	mv $tui $sd/tui.bak &>/dev/null
+	printf "\nDownloading theme .. Waite it will take time\n" ;
+    if [[(-f /bin/curl )]]; then 
+        cd $sdt && curl -L 'https://github.com/M4dGun/t-ui_themes/blob/main/WallX_theme/t-ui_WallX.zip?raw=true' -o $sdt/t-ui_WallX.zip  &>/dev/null
+	printf "\nFinished Downloading\n"
+    
+    else 
+    
+        cd $sdt && wget 'https://github.com/M4dGun/t-ui_themes/blob/main/WallX_theme/t-ui_WallX.zip?raw=true' -O $sdt/t-ui_WallX.zip >/dev/null ;
+
+  fi
+  printf "\nInstalling ." ; sleep 0.5 ;printf "."  ; sleep 0.5 ;printf "."  ; sleep 0.5 ;printf "."  ; sleep 0.5 ;printf "."  ; sleep 0.5 ;printf "."  ; sleep 0.5 ;printf "."  ; sleep 0.5 ;printf "."  ; sleep 0.5 ;printf "."  ; sleep 0.5 ;printf "."  ; sleep 0.5 ;printf "."  ; sleep 0.5 ;printf "."  ; sleep 0.5 ;printf "." 
+  unzip -o  $sdt/t-ui_WallX.zip -d $tui ;
+
+
+}
 show(){
-    printf "\n1.DRACULA_THEME\n2.Grid_theme\n"
+    printf "\n1.$theme_1\n2.$theme_2\n3.$theme_3"
 }
 version(){
-	echo "version 0.0.2"
+	echo "version 0.0.3"
 }
 help_1(){
     printf "\n --show  = show themes\n --help = show this menu \n --version = show/check the version \n"
 }
+###############
+####main#######
+###############
 if [[ "$1" == "1" ]]; then
 	install_1
 elif [[ "$1" == "2" ]]; then
 	install_2
+elif [[ "$1" == "3" ]]; then
+	install_3
 elif [[ "$1" == "--show" ]]; then
 	show
 elif [[ "$1" == "--version" ]]; then
