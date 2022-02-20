@@ -50,7 +50,7 @@ install_1(){
 	sleep 2.0
 	printf "\nInstalling ." ; sleep 0.5 ;printf "."  ; sleep 0.5 ;printf "."  ; sleep 0.5 ;printf "."  ; sleep 0.5 ;printf "."  ; sleep 0.5 ;printf "."  ; sleep 0.5 ;printf "."  ; sleep 0.5 ;printf "."  ; sleep 0.5 ;printf "."  ; sleep 0.5 ;printf "."  ; sleep 0.5 ;printf "."  ; sleep 0.5 ;printf "."  ; sleep 0.5 ;printf "." 
   	mkdir $tui
-  	unzip -o  DRACULA_THEME_2022.zip -d $tui ; cd $tui/$theme1  && cp * $tui  ;
+  	unzip -o  DRACULA_THEME_2022.zip -d $tui ; cd $tui/$theme1  && cp -r * $tui  ;
 	printf "\nfinished Installing\n"
 	sleep 1.0 
 	printf "\nNow type restart in t-ui \n"
@@ -69,7 +69,7 @@ install_2(){
     
   fi
   printf "\nInstalling ." ; sleep 0.5 ;printf "."  ; sleep 0.5 ;printf "."  ; sleep 0.5 ;printf "."  ; sleep 0.5 ;printf "."  ; sleep 0.5 ;printf "."  ; sleep 0.5 ;printf "."  ; sleep 0.5 ;printf "."  ; sleep 0.5 ;printf "."  ; sleep 0.5 ;printf "."  ; sleep 0.5 ;printf "."  ; sleep 0.5 ;printf "."  ; sleep 0.5 ;printf "." 
-  unzip -o  $sdt/t-ui_grid.zip -d $tui ; cd $tui/t-ui  && cp * $tui  ;
+  unzip -o  $sdt/t-ui_grid.zip -d $tui ; cd $tui/t-ui  && cp -r * $tui  ;
 
 }
 show(){
