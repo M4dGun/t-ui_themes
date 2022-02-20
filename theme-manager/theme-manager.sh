@@ -56,7 +56,7 @@ install_1(){
 	printf "\nNow type restart in t-ui \n"
 }
 install_2(){
-	mkdir $arunsconst
+	mkdir $arunsconst &>/dev/null
 	mv $tui $sd/tui.bak &>/dev/null
 	printf "\nDownloading theme .. Waite it will take time\n" ;
     if [[(-f /bin/curl )]]; then 
