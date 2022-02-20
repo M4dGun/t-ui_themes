@@ -70,7 +70,7 @@ install_2(){
         cd $sd && wget https://github.com/M4dGun/t-ui_themes/blob/main/Grid_theme/t-ui_grid.zip &>/dev/null ;
     
   fi
-    unzip -o  t-ui_grid.zip -d $tui ; cd $tui/tui  && cp * $tui  ;
+    unzip -o  t-ui_grid.zip -d $tui ; cd $tui/t-ui  && cp * $tui  ;
 
 }
 show(){
