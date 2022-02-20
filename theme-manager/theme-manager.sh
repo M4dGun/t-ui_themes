@@ -30,10 +30,16 @@ install_1(){
 show(){
     printf "\n1.DRACULA_THEME\n"
 }
+version(){
+	echo "version 0.0.1"
+}
 if [[ "$1" == "1" ]]; then
-install_1
+	install_1
 elif [[ "$1" == "--show" ]]; then
-show
+	show
+elif [[ "$1" == "--version" ]]; then
+	version
+
 else
 	usage
 fi
