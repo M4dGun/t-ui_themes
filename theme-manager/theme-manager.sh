@@ -18,7 +18,7 @@ usage(){
 printf "Usage \ntui-theme show <to --show the list of themes>\ntui-theme number_of_the_theme \nfor example tui-theme 1 <this will install DRACULA_THEME_2022"
 }
 install_1(){
-	if [[-f $sdt]]; then
+	if [[ (-f $sdt) ]]; then
 	echo "Updating " ; sleep 3.0
 	else
 	mkdir $sdt
@@ -66,7 +66,7 @@ elif [[ "$1" == "--show" ]]; then
 	show
 elif [[ "$1" == "--version" ]]; then
 	version
-elif [[ "$1" == "--help"]]; then
+elif [[ "$1" == "--help" ]]; then
 help_1
 else
 	usage
