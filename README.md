@@ -55,7 +55,7 @@ ____________________________
 
 <img src="https://github.com/M4dGun/t-ui_themes/blob/main/Tomboy.girl_theme/screenshot_tomboy_girl.jpg" data-canonical-src="https://github.com/M4dGun/t-ui_themes/blob/main/Tomboy.girl_theme/screenshot_tomboy_girl.jpg" width="300" />
 
-**[Tomboy Girl download](https://github.com/M4dGun/t-ui_themes/raw/main/Tomboy.girl_theme/t-ui_tomboy_girl.rar)**<br>
+**[Tomboy Girl download](https://github.com/M4dGun/t-ui_themes/raw/main/Tomboy.girl_theme/tomboy.zip)**<br>
 **[Wallpaper](https://github.com/M4dGun/t-ui_themes/raw/main/Tomboy.girl_theme/Tomboy.girl_wallpaper.jpg)**<br>
 ____________________________
 
