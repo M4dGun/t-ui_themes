@@ -107,8 +107,13 @@ install_4(){
 	unzip -o  $sdt/tomboy.zip -d $tui ;
 	cp -r $tui/tomboy_girl/* $tui
 	printf "$theme_4 is installed \n now run \"restart\" in t-ui"
-
-
+        printf "\nInstalling Wallpaer\n"
+am start \                                                          
+-a android.intent.action.ATTACH_DATA \
+-c android.intent.category.DEFAULT \
+-d file://"/sdcard/t-ui/Tomboy.girl_wallpaper.jpg" \                     
+-t 'image/*' \                                                           
+-e mimeType 'image/*'
 }
 show(){
     printf "\n1.$theme_1\n2.$theme_2\n3.$theme_3\n4.$theme_4"
