@@ -4,15 +4,15 @@
 ## Github  : @aruncs31s
 ## Telegram : @killadinjan
 ## T-ui expert : T-ui  theme-manger 
-#cat <<- EOF
-#		#####  #  #  #####
-#		  #    #  #    #
-#		  #    #  #    #   
-#		  #    ####  #####
-#
-#
-#
-#	EOF
+cat <<- EOF
+		#####  #  #  #####
+		  #    #  #    #
+		  #    #  #    #   
+		  #    ####  #####
+
+
+
+	EOF
 echo "T-ui Expert Theme Manager"
 ######
 tui=/storage/emulated/0/t-ui
@@ -109,7 +109,8 @@ install_4(){
 	cp -r $tui/tomboy_girl/* $tui
 	printf "$theme_4 is installed \n now run \"restart\" in t-ui"
         printf "\nInstalling Wallpaer\n"
-am start  -a android.intent.action.ATTACH_DATA  -c android.intent.category.DEFAULT -d file://"/sdcard/t-ui/Tomboy.girl_wallpaper.jpg" -t 'image/*' -e mimeType 'image/*'
+#Uncoment the following line to set Wallpaper but this cant be run inside t-ui  
+##am start  -a android.intent.action.ATTACH_DATA  -c android.intent.category.DEFAULT -d file://"/sdcard/t-ui/Tomboy.girl_wallpaper.jpg" -t 'image/*' -e mimeType 'image/*'
 }
 show(){
     printf "\n1.$theme_1\n2.$theme_2\n3.$theme_3\n4.$theme_4"
