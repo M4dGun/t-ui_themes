@@ -14,7 +14,7 @@ T-UI and T-UI Expert themes collections made by community!!!
 ## HOW TO INSTALL THEMES
 
 With the help of Arun (@killadinjan), there's a script - entirely written by him - with which you can automatically download and install all themes available in this repository !
-Please, follow the guide on this page: [theme-manager](https://github.com/M4dGun/t-ui_themes/tree/main/theme-manager).
+Please, follow the guide at this page: [theme-manager](https://github.com/M4dGun/t-ui_themes/tree/main/theme-manager).
 <br>
 <br>
 ## THEMES COLLECTIONS
