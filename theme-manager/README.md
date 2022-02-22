@@ -1,15 +1,24 @@
 ## Theme-manager
 <br>
 
-### Installation
-
-Download the script and add an alias to use it:
-
+1) Download the script
 ```
-curl -L https://github.com/aruncs31s/t-ui_themes/blob/main/theme-manager/theme-manager.sh?raw=true -o /storage/emulated/0/theme-manager.sh
+curl -LJO https://github.com/aruncs31s/t-ui_themes/blob/main/theme-manager/theme-manager.sh?raw=true -o /storage/emulated/0/theme-manager.sh
+```
 
+2) Add an alias to use theme-manager:
+```
 alias -add tui-theme sh /storage/emulated/0/theme-manager.sh %
 ```
+
+
+3) How to use the script
+Simply run:
+```
+tui-theme
+```
+
+
 ### update the script
 
 ```
