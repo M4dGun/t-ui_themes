@@ -11,13 +11,13 @@ T-UI and T-UI Expert themes collections made by community!!!
 **OLD Themes group**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-->&nbsp;&nbsp;&nbsp;&nbsp;**[Telegram](https://t.me/T_uiThemes)**<br>
 <br>
 
-## THEMES COLLECTIONS
+## HOW TO INSTALL THEMES
 
-[WORK IN PROGRESS]
-
-
-To install theme-manager: [theme-manager](https://github.com/aruncs31s/t-ui_themes/tree/main/theme-manager).
+With the help of Arun (@killadinjan), there's a script - entirely written by him - with which you can automatically download and install all themes available in this repository !
+Please, follow the guide on this page: [theme-manager](https://github.com/M4dGun/t-ui_themes/tree/main/theme-manager).
 <br>
+<br>
+## THEMES COLLECTIONS
 
 
 
