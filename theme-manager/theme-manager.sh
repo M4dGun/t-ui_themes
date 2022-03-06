@@ -19,6 +19,7 @@ tui=/storage/emulated/0/t-ui
 sd=/storage/emulated/0
 sdt=/storage/emulated/0/tui-themes
 arunsconst=/storage/emulated/0/tui-themes
+timestamp=$(date +%Y%m%d%H%M%S)
 ######
 theme_1=DRACULA_THEME_2022
 theme_2=Grid_theme
@@ -37,7 +38,7 @@ if [[(-f $sdt)]]; then
 	fi
     
 install_1(){
-	mv $tui $sd/tui.bak &>/dev/null
+	mv $tui $sdt/$timestamp &>/dev/null
 	printf "\nDownloading theme ..\n" ;
 	if [[(-f /bin/curl)]]; then 
 	
@@ -58,7 +59,7 @@ install_1(){
 }
 install_2(){
 	mkdir $arunsconst &>/dev/null
-	mv $tui $sd/tui.bak &>/dev/null
+	mv $tui $sdt/$timestamp &>/dev/null
 	printf "\nDownloading theme ..\n" ;
     if [[(-f /bin/curl )]]; then 
         cd $sdt && curl -LO https://github.com/M4dGun/t-ui_themes/blob/main/Grid_theme/t-ui_grid.zip?raw=true && mv $sdt/t-ui_grid.zip?raw=true t-ui_grid.zip
@@ -75,7 +76,7 @@ install_2(){
 }
 install_3(){
 mkdir $arunsconst &>/dev/null
-	mv $tui $sd/tui.bak &>/dev/null
+	mv $tui $sdt/$timestamp &>/dev/null
 	printf "\nDownloading theme .. Waite it will take time\n" ;
     if [[(-f /bin/curl )]]; then 
         cd $sdt && curl -L 'https://github.com/M4dGun/t-ui_themes/blob/main/WallX_theme/t-ui_WallX.zip?raw=true' -o $sdt/t-ui_WallX.zip  &>/dev/null
@@ -93,7 +94,7 @@ mkdir $arunsconst &>/dev/null
 }
 install_4(){
 	mkdir $arunsconst
-	mv $tui $sd/tui.bak &>/dev/null
+	mv $tui $sdt/$timestamp &>/dev/null
 	printf "\nDownloading theme .. Wait a bit\n" ;
     if [[(-f /bin/curl )]]; then 
         cd $sdt && curl -L 'https://github.com/M4dGun/t-ui_themes/blob/main/Tomboy.girl_theme/tomboy.zip?raw=true' -o $sdt/tomboy.zip  &>/dev/null
