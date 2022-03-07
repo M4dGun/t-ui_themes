@@ -13,8 +13,8 @@ T-UI and T-UI Expert themes collections made by community!!!
 
 ## HOW TO INSTALL THEMES
 
-With the help of Arun (@killadinjan), there's a script - entirely written by him - with which you can automatically download and install all themes available in this repository !
-Please, follow the guide at this page: [theme-manager](https://github.com/M4dGun/t-ui_themes/tree/main/theme-manager).
+With the great help of Arun (@killadinjan), we are writing a script to automatically download and install all themes available in this repository via T-UI!
+At the moment the script is not ready yet, so use the download button to download themes.
 <br>
 <br>
 ## THEMES COLLECTIONS
@@ -29,6 +29,18 @@ Please, follow the guide at this page: [theme-manager](https://github.com/M4dGun
 **[Dracula info](https://github.com/M4dGun/t-ui_themes/blob/main/Dracula_theme/README.md)**<br>
 **[Dracula download](https://github.com/M4dGun/t-ui_themes/raw/main/Dracula_theme/DRACULA_THEME_2022.zip)**<br>
 **[Wallpaper](https://github.com/M4dGun/t-ui_themes/raw/main/Dracula_theme/Dracula_wallpaper.png)**<br>
+____________________________
+
+### ■ NetHunter<br>
+*(credits: @deadrabbit404)*
+
+<img src="https://github.com/M4dGun/t-ui_themes/blob/main/NetHunter/photo_2022-03-07_00-39-00.jpg" data-canonical-src="https://github.com/M4dGun/t-ui_themes/blob/main/NetHunter/photo_2022-03-07_00-39-00.jpg" width="300" />
+
+**[NetHunter info](https://github.com/M4dGun/t-ui_themes/blob/main/NetHunter/README.md)**<br>
+**[NetHunter download](https://github.com/M4dGun/t-ui_themes/raw/main/NetHunter/NetHunter.zip)**<br>
+**[Wallpaper](https://github.com/M4dGun/t-ui_themes/raw/main/NetHunter/NetHunter_wallpaper.jpg)**<br>
+
+
 ____________________________
 
 ### ■ GRID<br>
