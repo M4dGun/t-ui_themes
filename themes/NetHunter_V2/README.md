@@ -9,3 +9,5 @@ New Features:
 • banner-custom: Want to display a custom banner? Just edit custom_banner.txt inside the t-ui/ascii directory and then run this command.
 
 • New matching wallpaper.
+
+<img src="https://github.com/M4dGun/t-ui_themes/raw/main/themes/NetHunter_V2/photo_2022-03-31_10-27-21.jpg" data-canonical-src="https://github.com/M4dGun/t-ui_themes/raw/main/themes/NetHunter_V2/photo_2022-03-31_10-27-21.jpg" width="300" />
