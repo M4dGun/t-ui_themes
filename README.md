@@ -58,7 +58,7 @@ ____________________________
 
 <img src="https://github.com/M4dGun/t-ui_themes/blob/main/WallX_theme/screenshot_WallX.jpg" data-canonical-src="https://github.com/M4dGun/t-ui_themes/blob/main/WallX_theme/screenshot_WallX.jpg" width="300" />
 
-**[WallX download](https://github.com/M4dGun/t-ui_themes/raw/main/WallX_theme/t-ui_WallX.zip)**<br>
+**[WallX download](https://github.com/M4dGun/t-ui_themes/raw/main/WallX_theme/WallX.zip)**<br>
 **[Wallpaper](https://github.com/M4dGun/t-ui_themes/raw/main/WallX_theme/WallX_Wallpaper_1440x2560.jpeg)**<br>
 ____________________________
 
