@@ -43,6 +43,19 @@ ____________________________
 
 ____________________________
 
+### ■ NetHunter V2<br>
+*(credits: @deadrabbit404)*
+
+<img src="https://github.com/M4dGun/t-ui_themes/raw/main/themes/NetHunter_V2/photo_2022-03-31_10-27-21.jpg" data-canonical-src="https://github.com/M4dGun/t-ui_themes/raw/main/themes/NetHunter_V2/photo_2022-03-31_10-27-21.jpg" width="300" />
+
+**[NetHunter info](https://github.com/M4dGun/t-ui_themes/blob/main/themes/NetHunter_V2/README.md)**<br>
+**[NetHunter download](https://github.com/M4dGun/t-ui_themes/raw/main/themes/NetHunter_V2/NetHunterV2.0.zip)**<br>
+**[Wallpaper](https://github.com/M4dGun/t-ui_themes/raw/main/themes/NetHunter_V2/wallpaper.jpg)**<br>
+
+
+____________________________
+
+
 ### ■ GRID<br>
 *(credits: Gavin Smith)*
 
