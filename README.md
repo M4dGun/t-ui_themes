@@ -21,17 +21,33 @@ At the moment the script is not ready yet, so use the download button to downloa
 
 
 
-### ■ DRACULA<br>
+### # 1 - DRACULA v1 <br>
 *(credits: GOV and me)*
 
-<img src="https://github.com/M4dGun/t-ui_themes/blob/main/Dracula_theme/Screenshot_DRACULA_1.jpg" data-canonical-src="https://github.com/M4dGun/t-ui_themes/blob/main/Dracula_theme/Screenshot_DRACULA_1.jpg" width="300" />
+<img src="https://github.com/M4dGun/t-ui_themes/blob/main/Dracula_theme/Screenshot_DRACULA_1.jpg" data-canonical-src="
+https://github.com/M4dGun/t-ui_themes/blob/main/Dracula_theme/Screenshot_DRACULA_1.jpg" width="300" />
 
-**[Dracula info](https://github.com/M4dGun/t-ui_themes/blob/main/Dracula_theme/README.md)**<br>
-**[Dracula download](https://github.com/M4dGun/t-ui_themes/raw/main/Dracula_theme/DRACULA_THEME_2022.zip)**<br>
-**[Wallpaper](https://github.com/M4dGun/t-ui_themes/raw/main/Dracula_theme/Dracula_wallpaper.png)**<br>
+**[Dracula info](https://github.com/M4dGun/t-ui_themes/blob/main/themes/Dracula_V1/README.md)**<br>
+**[Dracula download](https://github.com/M4dGun/t-ui_themes/raw/main/themes/Dracula_V1/dracula_v1.zip)**<br>
+**[Wallpaper](https://github.com/M4dGun/t-ui_themes/raw/main/themes/Dracula_V1/Dracula_wallpaper.png)**<br>
+
 ____________________________
 
-### ■ NetHunter<br>
+
+### # 2 - DRACULA v2 <br>
+*(credits: GOV and me)*
+
+<img src="https://github.com/M4dGun/t-ui_themes/blob/main/Dracula_theme/Screenshot_DRACULA_1.jpg" data-canonical-src="
+https://github.com/M4dGun/t-ui_themes/blob/main/Dracula_theme/Screenshot_DRACULA_1.jpg" width="300" />
+
+**[Dracula info](https://github.com/M4dGun/t-ui_themes/blob/main/themes/Dracula_V1/README.md)**<br>
+**[Dracula download](https://github.com/M4dGun/t-ui_themes/raw/main/themes/Dracula_V1/dracula_v1.zip)**<br>
+**[Wallpaper](https://github.com/M4dGun/t-ui_themes/raw/main/themes/Dracula_V1/Dracula_wallpaper.png)**<br>
+
+____________________________
+
+
+### # 3 - NetHunter v1<br>
 *(credits: @deadrabbit404)*
 
 <img src="https://github.com/M4dGun/t-ui_themes/blob/main/NetHunter/photo_2022-03-07_00-39-00.jpg" data-canonical-src="https://github.com/M4dGun/t-ui_themes/blob/main/NetHunter/photo_2022-03-07_00-39-00.jpg" width="300" />
@@ -40,10 +56,9 @@ ____________________________
 **[NetHunter download](https://github.com/M4dGun/t-ui_themes/raw/main/NetHunter/NetHunter.zip)**<br>
 **[Wallpaper](https://github.com/M4dGun/t-ui_themes/raw/main/NetHunter/NetHunter_wallpaper.jpg)**<br>
 
-
 ____________________________
 
-### ■ NetHunter V2<br>
+### # 4 - NetHunter v2<br>
 *(credits: @deadrabbit404)*
 
 <img src="https://github.com/M4dGun/t-ui_themes/raw/main/themes/NetHunter_V2/photo_2022-03-31_10-27-21.jpg" data-canonical-src="https://github.com/M4dGun/t-ui_themes/raw/main/themes/NetHunter_V2/photo_2022-03-31_10-27-21.jpg" width="300" />
