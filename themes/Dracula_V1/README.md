@@ -36,3 +36,10 @@ in `device_name` your device;<br>
 📌 There is an alias in my file: if you type `icons` you will see all icons in the included font.
 
 =================================
+
+<img src="https://github.com/M4dGun/t-ui_themes/blob/main/Dracula_theme/Screenshot_DRACULA_1.jpg" data-canonical-src="
+https://github.com/M4dGun/t-ui_themes/blob/main/Dracula_theme/Screenshot_DRACULA_1.jpg" width="300" />
+
+<img src="https://github.com/M4dGun/t-ui_themes/blob/main/Dracula_theme/Screenshot_DRACULA_3.jpg" data-canonical-src="
+https://github.com/M4dGun/t-ui_themes/blob/main/Dracula_theme/Screenshot_DRACULA_3.jpg" width="300" />
+
