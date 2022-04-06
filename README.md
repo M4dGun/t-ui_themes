@@ -24,8 +24,8 @@ At the moment the script is not ready yet, so use the download button to downloa
 ### # 1 - DRACULA v1 <br>
 *(credits: GOV and me)*
 
-<img src="https://github.com/M4dGun/t-ui_themes/blob/main/Dracula_theme/Screenshot_DRACULA_1.jpg" data-canonical-src="
-https://github.com/M4dGun/t-ui_themes/blob/main/Dracula_theme/Screenshot_DRACULA_1.jpg" width="300" />
+<img src="https://github.com/M4dGun/t-ui_themes/blob/main/themes/Dracula_V1/Screenshot_DRACULA_1.jpg" data-canonical-src="
+https://github.com/M4dGun/t-ui_themes/blob/main/themes/Dracula_V1/Screenshot_DRACULA_1.jpg" width="300" />
 
 **[Dracula info](https://github.com/M4dGun/t-ui_themes/blob/main/themes/Dracula_V1/README.md)**<br>
 **[Dracula download](https://github.com/M4dGun/t-ui_themes/raw/main/themes/Dracula_V1/dracula_v1.zip)**<br>
