@@ -51,11 +51,11 @@ ____________________________
 ### # 3 - NetHunter v1<br>
 *(credits: @deadrabbit404)*
 
-<img src="https://github.com/M4dGun/t-ui_themes/blob/main/NetHunter/photo_2022-03-07_00-39-00.jpg" data-canonical-src="https://github.com/M4dGun/t-ui_themes/blob/main/NetHunter/photo_2022-03-07_00-39-00.jpg" width="300" />
+<img src="https://github.com/M4dGun/t-ui_themes/blob/main/themes/NetHunter_V1/photo_2022-03-07_00-39-00.jpg" data-canonical-src="https://github.com/M4dGun/t-ui_themes/blob/main/themes/NetHunter_V1/photo_2022-03-07_00-39-00.jpg" width="300" />
 
-**[NetHunter info](https://github.com/M4dGun/t-ui_themes/blob/main/NetHunter/README.md)**<br>
-**[NetHunter download](https://github.com/M4dGun/t-ui_themes/raw/main/NetHunter/NetHunter.zip)**<br>
-**[Wallpaper](https://github.com/M4dGun/t-ui_themes/raw/main/NetHunter/NetHunter_wallpaper.jpg)**<br>
+**[NetHunter info](https://github.com/M4dGun/t-ui_themes/blob/main/themes/NetHunter_V1/README.md)**<br>
+**[NetHunter download](https://github.com/M4dGun/t-ui_themes/raw/main/themes/NetHunter_V1/NetHunter.zip)**<br>
+**[Wallpaper](https://github.com/M4dGun/t-ui_themes/raw/main/themes/NetHunter_V1/NetHunter_wallpaper.jpg)**<br>
 
 ____________________________
 
