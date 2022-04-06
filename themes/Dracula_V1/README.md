@@ -23,8 +23,7 @@ Twitch<br>
 <br>
 
 
-📌  If you want to view the above applications as icons at the bottom (toolbar), as shown in the [screenshot](https://github.com/M4dGun/t-ui_themes/blob/main/Dracula_theme/Screenshot_DRACULA_1.jpg), rename alias_dracula.txt to alias.txt - making a backup of your previously created aliases!<br>
-N.B. it is likely that you will have to change some names of some applications in alias.txt (for example for gallery app, because I use a MIUI OS)<br>
+📌  It is likely that you will have to change some names of some applications in alias.txt (for example for gallery app, because I use a MIUI OS)<br>
 
 📌  REMEMBER TO ADD:<br>
 in `weather_location`: your weather information (city ID or longitude / latitude);<br>
