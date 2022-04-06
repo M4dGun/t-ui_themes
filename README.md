@@ -41,7 +41,7 @@ ____________________________
 https://github.com/M4dGun/t-ui_themes/blob/main/themes/Dracula_V2/Dracula_v2_new.jpg" width="300" />
 
 **[Dracula info](https://github.com/M4dGun/t-ui_themes/blob/main/themes/Dracula_V2/README.md)**<br>
-**[Dracula download](https://github.com/M4dGun/t-ui_themes/raw/main/themes/Dracula_V1/dracula_v1.zip)**<br>
+**[Dracula download](https://github.com/M4dGun/t-ui_themes/raw/main/themes/Dracula_V2/Dracula_v2.zip)**<br>
 **[Wallpaper 1](https://github.com/M4dGun/t-ui_themes/raw/main/themes/Dracula_V2/wallpaper_2.jpg)**<br>
 **[Wallpaper 2](https://github.com/M4dGun/t-ui_themes/raw/main/themes/Dracula_V2/wallpaper_1.jpg)**<br>
 
