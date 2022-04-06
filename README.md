@@ -72,7 +72,7 @@ ____________________________
 ____________________________
 
 
-### ■ GRID<br>
+### # 5 - GRID<br>
 *(credits: Gavin Smith)*
 
 <img src="https://github.com/M4dGun/t-ui_themes/blob/main/Grid_theme/screenshot_GRID.jpg" data-canonical-src="https://github.com/M4dGun/t-ui_themes/blob/main/Grid_theme/screenshot_GRID.jpg" width="300" />
@@ -82,7 +82,7 @@ ____________________________
 **[Wallpaper 2](https://github.com/M4dGun/t-ui_themes/raw/main/Grid_theme/Grid_wallpaper_2.jpg)**<br>
 ____________________________
 
-### ■ WallX<br>
+### # 6 - WallX<br>
 *(credits: S̵̓t̴͝ë̸́v̴̐e̸̒)*
 
 <img src="https://github.com/M4dGun/t-ui_themes/blob/main/WallX_theme/screenshot_WallX.jpg" data-canonical-src="https://github.com/M4dGun/t-ui_themes/blob/main/WallX_theme/screenshot_WallX.jpg" width="300" />
@@ -91,7 +91,7 @@ ____________________________
 **[Wallpaper](https://github.com/M4dGun/t-ui_themes/raw/main/WallX_theme/WallX_Wallpaper_1440x2560.jpeg)**<br>
 ____________________________
 
-### ■ TOMBOY GIRL<br>
+### # 7 - TOMBOY GIRL<br>
 *(credits: @Ferytell)*
 
 <img src="https://github.com/M4dGun/t-ui_themes/blob/main/Tomboy.girl_theme/screenshot_tomboy_girl.jpg" data-canonical-src="https://github.com/M4dGun/t-ui_themes/blob/main/Tomboy.girl_theme/screenshot_tomboy_girl.jpg" width="300" />
