@@ -1,7 +1,12 @@
 ❗️ 🦇  🎨   DRACULA THEME V2  🎨  🦇 ❗️<br>
+<br>
+<br>
+<img src="https://github.com/M4dGun/t-ui_themes/blob/main/themes/Dracula_V2/Dracula_v2_new.jpg" data-canonical-src="https://github.com/M4dGun/t-ui_themes/blob/main/themes/Dracula_V2/Dracula_v2_new.jpg" width="300" />
 
 
-NEW CHANGELOG:<br>
+
+CHANGELOG:<br>
+📌 New setup;<br>
 📌 New font;<br>
 📌 Minor adjustments;<br>
 📌 New notifications spacing;<br>
@@ -15,7 +20,7 @@ NEW CHANGELOG:<br>
 
 📌  Font included
 
-📌  2 WallpaperS included
+📌  2 Wallpapers included
 
 📌  CUSTOM NOTIFICATIONS FOR:<br>
 Phone<br>
@@ -32,6 +37,10 @@ Twitch<br>
 <img src="https://github.com/M4dGun/t-ui_themes/blob/main/themes/Dracula_V2/IMG_20220406_103600.jpg" data-canonical-src="https://github.com/M4dGun/t-ui_themes/blob/main/themes/Dracula_V2/IMG_20220406_103600.jpg" width="350" /><br>
 <br>
 
+**NOTE: If your phone has the notch, disable the fullscreen option, type:**
+> config -set fullscreen false
+
+and restart t-ui<br>
 
 📌  It is likely that you will have to change some names of some applications in alias.txt (for example for gallery app, because I use a MIUI OS)<br>
 
@@ -49,9 +58,6 @@ in `device_name` your device;<br>
 
 
 
-<img src="https://github.com/M4dGun/t-ui_themes/blob/main/themes/Dracula_V1/Screenshot_DRACULA_1.jpg" data-canonical-src="
-https://github.com/M4dGun/t-ui_themes/blob/main/themes/Dracula_V1/Screenshot_DRACULA_1.jpg" width="300" />
 
-<img src="https://github.com/M4dGun/t-ui_themes/blob/main/themes/Dracula_V1/Screenshot_DRACULA_3.jpg" data-canonical-src="
-https://github.com/M4dGun/t-ui_themes/blob/main/themes/Dracula_V1/Screenshot_DRACULA_3.jpg" width="300" />
+<img src="https://github.com/M4dGun/t-ui_themes/blob/main/themes/Dracula_V2/Dracula_v2_1.jpg" data-canonical-src="https://github.com/M4dGun/t-ui_themes/blob/main/themes/Dracula_V2/Dracula_v2_1.jpg" width="300" />
 
