@@ -19,7 +19,7 @@ Gmail<br>
 Spotify<br>
 Twitch<br>
 <br>
-<img src="https://github.com/M4dGun/t-ui_themes/blob/main/Dracula_theme/Screenshot_DRACULA_4.jpg" data-canonical-src="https://github.com/M4dGun/t-ui_themes/blob/main/Dracula_theme/Screenshot_DRACULA_4.jpg" width="250" /><br>
+<img src="https://github.com/M4dGun/t-ui_themes/blob/main/themes/Dracula_V1/Screenshot_DRACULA_4.jpg" data-canonical-src="https://github.com/M4dGun/t-ui_themes/blob/main/themes/Dracula_V1/Screenshot_DRACULA_4.jpg" width="250" /><br>
 <br>
 
 
@@ -37,9 +37,12 @@ in `device_name` your device;<br>
 
 =================================
 
-<img src="https://github.com/M4dGun/t-ui_themes/blob/main/Dracula_theme/Screenshot_DRACULA_1.jpg" data-canonical-src="
-https://github.com/M4dGun/t-ui_themes/blob/main/Dracula_theme/Screenshot_DRACULA_1.jpg" width="300" />
 
-<img src="https://github.com/M4dGun/t-ui_themes/blob/main/Dracula_theme/Screenshot_DRACULA_3.jpg" data-canonical-src="
-https://github.com/M4dGun/t-ui_themes/blob/main/Dracula_theme/Screenshot_DRACULA_3.jpg" width="300" />
+
+
+<img src="https://github.com/M4dGun/t-ui_themes/blob/main/themes/Dracula_V1/Screenshot_DRACULA_1.jpg" data-canonical-src="
+https://github.com/M4dGun/t-ui_themes/blob/main/themes/Dracula_V1/Screenshot_DRACULA_1.jpg" width="300" />
+
+<img src="https://github.com/M4dGun/t-ui_themes/blob/main/themes/Dracula_V1/Screenshot_DRACULA_3.jpg" data-canonical-src="
+https://github.com/M4dGun/t-ui_themes/blob/main/themes/Dracula_V1/Screenshot_DRACULA_3.jpg" width="300" />
 
