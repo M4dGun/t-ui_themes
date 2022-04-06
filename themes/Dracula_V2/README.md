@@ -29,7 +29,7 @@ Gmail<br>
 Spotify<br>
 Twitch<br>
 <br>
-<img src="https://github.com/M4dGun/t-ui_themes/blob/main/themes/Dracula_V1/Screenshot_DRACULA_4.jpg" data-canonical-src="https://github.com/M4dGun/t-ui_themes/blob/main/themes/Dracula_V1/Screenshot_DRACULA_4.jpg" width="250" /><br>
+<img src="https://github.com/M4dGun/t-ui_themes/blob/main/themes/Dracula_V2/IMG_20220406_103600.jpg" data-canonical-src="https://github.com/M4dGun/t-ui_themes/blob/main/themes/Dracula_V2/IMG_20220406_103600.jpg" width="350" /><br>
 <br>
 
 
