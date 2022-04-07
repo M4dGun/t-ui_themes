@@ -13,8 +13,9 @@ T-UI and T-UI Expert themes collections made by community!!!
 
 ## HOW TO INSTALL THEMES
 
-With the great help of Arun (@killadinjan), we are writing a script to automatically download and install all themes available in this repository via T-UI!
-At the moment the script is not ready yet, so use the download button to download themes.
+With the great help of ĐɆ₳ĐⱤ₳฿฿ł₮ (@deadrabbit404) and Arun (@killadinjan), i'm writing a script to automatically download and install all themes available in this repository via T-UI!<br>
+<br>
+ttm script can be found in theme-manager folder, but it is still in beta: please report any errors. Thank you.<br>
 <br>
 <br>
 ## THEMES COLLECTIONS
