@@ -85,7 +85,19 @@ ____________________________
 **[Wallpaper 2](https://github.com/M4dGun/t-ui_themes/raw/main/Grid_theme/Grid_wallpaper_2.jpg)**<br>
 ____________________________
 
-### # 6 - WallX<br>
+
+### # 6 - T-ui Dev 2<br>
+*(credits: Vram)*
+
+<img src="https://github.com/M4dGun/t-ui_themes/blob/main/themes/t-ui_dev_2/IMG_20220408_201257_171.jpg" data-canonical-src="https://github.com/M4dGun/t-ui_themes/blob/main/themes/t-ui_dev_2/IMG_20220408_201257_171.jpg" width="300" />
+
+**[T-ui Dev 2 info](https://github.com/M4dGun/t-ui_themes/blob/main/themes/NetHunter_V2/README.md)**<br>
+**[T-ui Dev 2 download]( )**<br>
+**[Wallpaper]( )**<br>
+____________________________
+
+
+### # 7 - WallX<br>
 *(credits: S̵̓t̴͝ë̸́v̴̐e̸̒)*
 
 <img src="https://github.com/M4dGun/t-ui_themes/blob/main/WallX_theme/screenshot_WallX.jpg" data-canonical-src="https://github.com/M4dGun/t-ui_themes/blob/main/WallX_theme/screenshot_WallX.jpg" width="300" />
@@ -94,7 +106,7 @@ ____________________________
 **[Wallpaper](https://github.com/M4dGun/t-ui_themes/raw/main/WallX_theme/WallX_Wallpaper_1440x2560.jpeg)**<br>
 ____________________________
 
-### # 7 - TOMBOY GIRL<br>
+### # 8 - TOMBOY GIRL<br>
 *(credits: @Ferytell)*
 
 <img src="https://github.com/M4dGun/t-ui_themes/blob/main/Tomboy.girl_theme/screenshot_tomboy_girl.jpg" data-canonical-src="https://github.com/M4dGun/t-ui_themes/blob/main/Tomboy.girl_theme/screenshot_tomboy_girl.jpg" width="300" />
