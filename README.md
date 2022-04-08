@@ -93,7 +93,7 @@ ____________________________
 
 **[T-ui Dev 2 info](https://github.com/M4dGun/t-ui_themes/blob/main/themes/NetHunter_V2/README.md)**<br>
 **[T-ui Dev 2 download]( )**<br>
-**[Wallpaper]( )**<br>
+**[Animated Wallpaper](https://github.com/M4dGun/t-ui_themes/raw/main/themes/t-ui_dev_2/_Animated_wallpapers.zip)**<br>
 ____________________________
 
 
