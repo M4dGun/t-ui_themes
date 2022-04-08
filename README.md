@@ -91,8 +91,8 @@ ____________________________
 
 <img src="https://github.com/M4dGun/t-ui_themes/blob/main/themes/t-ui_dev_2/IMG_20220408_201257_171.jpg" data-canonical-src="https://github.com/M4dGun/t-ui_themes/blob/main/themes/t-ui_dev_2/IMG_20220408_201257_171.jpg" width="300" />
 
-**[T-ui Dev 2 info](https://github.com/M4dGun/t-ui_themes/blob/main/themes/NetHunter_V2/README.md)**<br>
-**[T-ui Dev 2 download]( )**<br>
+**[T-ui Dev 2 info](https://github.com/M4dGun/t-ui_themes/blob/main/themes/t-ui_dev_2/README.md)**<br>
+**[T-ui Dev 2 download](https://github.com/M4dGun/t-ui_themes/raw/main/themes/t-ui_dev_2/t-ui_dev_2.zip)**<br>
 **[Animated Wallpaper](https://github.com/M4dGun/t-ui_themes/raw/main/themes/t-ui_dev_2/_Animated_wallpapers.zip)**<br>
 ____________________________
 
