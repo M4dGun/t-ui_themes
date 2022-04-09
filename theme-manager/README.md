@@ -19,10 +19,7 @@ Its main functions are:
 
 ## Prerequisites:
    * [T-UI Expert](https://github.com/v1nc/T-UI-Expert/releases/download/v0.4.4e/de.reckendrees.systems.tui.expert_fdroid_v.0.4.4e.apk)
-   * TEL / Termux
-
-**NOTE:** devices without root will almost certainly have to install themes via TEL / Termux or any other Terminal emulator. <br>
-The other ttm commands work directly in t-ui expert without problems (except ttm -u; ttm --update)
+   * TEL / Termux or Busybox
 
 
 ## How to install
