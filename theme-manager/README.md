@@ -42,7 +42,7 @@ NOTE: if you can't install ttm anyway, because you don't have root or because th
 * add these 2 aliases at the bottom of the list
 * `ttm=sh /storage/emulated/0/ttm %`
 * `ttm -p=search -u https://github.com/M4dGun/t-ui_themes`
-* Now `restart` or `refresh` t-ui.
+* Save file and `restart` or `refresh` t-ui.
 
 
 
