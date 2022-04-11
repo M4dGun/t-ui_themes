@@ -5,6 +5,7 @@ T-ui (Expert) Theme-manager a.k.a. ttm is a script created to manage T-ui Expert
 
 
 <img src="https://github.com/M4dGun/t-ui_themes/blob/main/theme-manager/ttm_example.jpg" data-canonical-src="https://github.com/M4dGun/t-ui_themes/blob/main/theme-manager/ttm_example.jpg" width="350" />
+<br>
 
 
 ## Features
@@ -21,7 +22,12 @@ Its main functions are:
 ## Prerequisites:
    * [T-UI Expert](https://github.com/v1nc/T-UI-Expert/releases/download/v0.4.4e/de.reckendrees.systems.tui.expert_fdroid_v.0.4.4e.apk)
    * TEL / Termux or Busybox (the script needs to access curl or wget to execute some commands)
-
+<br>
+You can use this script in 2 ways:<br>
+   1. Through t-ui (if you have root* or without root if you can use curl or wget without the command "termux curl" / "termux wget")<br>
+   2. Via Termux or TEL or another Terminal emulator (remembering to install curl or wget if not present)<br>
+<br>
+export PATH=$PATH:/data/data/com.termux/files/usr/bin/
 
 ## How to install
 
