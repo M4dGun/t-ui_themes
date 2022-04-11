@@ -20,7 +20,7 @@ Its main functions are:
 
 ## Prerequisites:
    * [T-UI Expert](https://github.com/v1nc/T-UI-Expert/releases/download/v0.4.4e/de.reckendrees.systems.tui.expert_fdroid_v.0.4.4e.apk)
-   * TEL / Termux or Busybox
+   * TEL / Termux or Busybox (the script needs to access curl or wget to execute some commands)
 
 
 ## How to install
