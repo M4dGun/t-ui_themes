@@ -49,6 +49,8 @@ NOTE: if you can't install ttm anyway, because you don't have root or because th
 
 ## How to use 
 
+[Work in Progress...]
+
 #### You can use this script in 3 ways:<br>
 1. Through t-ui if you have root
 2. Through t-ui if you can use curl or wget without the command "termux curl" / "termux wget"
@@ -68,7 +70,7 @@ Copy and paste this command at the end of file:<br>
 Save and refresh t-ui Expert. 
 When you reboot your device or restart t-ui just type `init`.
 
-  for example try running curl --help to check
+TEST IT: type `curl --help`
   
   
   
