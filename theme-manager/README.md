@@ -37,7 +37,7 @@ NOTE: if you can't install ttm anyway, because you don't have root or because th
 <br>
 
 **Option 2: manual download**
-* Download [ttm script](https://github.com/M4dGun/t-ui_themes/raw/main/theme-manager/install_ttm.zip) and extract it into your internal storage ( /storage/emulated/0 ).
+* Download [ttm script](https://github.com/M4dGun/t-ui_themes/raw/main/theme-manager/ttm.zip) and extract it into your internal storage ( /storage/emulated/0 ).
 * On t-ui Expert type:
 * `alias -file`
 * add these 2 aliases at the bottom of the list
