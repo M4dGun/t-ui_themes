@@ -55,7 +55,7 @@ NOTE: if you can't install ttm anyway, because you don't have root or because th
 1. Through t-ui if you have root
 2. Through t-ui if you can use curl or wget without the command "termux curl" / "termux wget"
 3. Via Termux or TEL or another Terminal emulator (remembering to install curl or wget if not present)
-<br>
+
 * Case 1: if you are rooted then export Termux/TEL user bin folder into the PATH from T-UI:
 
 `export PATH=$PATH:/data/data/com.termux/files/usr/bin/:/data/data/com.termux/files/usr/bin/applets && su -c tsu`
