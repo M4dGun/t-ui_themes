@@ -27,10 +27,10 @@ You can use this script in 2 ways:<br>
    1. Through t-ui (if you have root[×] or without root if you can use curl or wget without the command "termux curl" / "termux wget")<br>
    2. Via Termux or TEL or another Terminal emulator (remembering to install curl or wget if not present)<br>
 <br>
-[×]: if you are rooted then export Termux/TEL user bin folder into the PATH from T-UI:
-      `export PATH=$PATH:/data/data/com.termux/files/usr/bin/`
-      or 
-      `export PATH=$PATH:/data/data/com.termux/files/usr/bin/:/data/data/com.termux/files/usr/bin/applets && su -c tsu`
+[×]: if you are rooted then export Termux/TEL user bin folder into the PATH from T-UI:<br>
+      `export PATH=$PATH:/data/data/com.termux/files/usr/bin/`<br>
+      or <br>
+      `export PATH=$PATH:/data/data/com.termux/files/usr/bin/:/data/data/com.termux/files/usr/bin/applets && su -c tsu`<br>
       
 In the first case you can type in su to get sudo access: now you can use all commands of Termux bin folder from T-UI and profit. <br>
 
