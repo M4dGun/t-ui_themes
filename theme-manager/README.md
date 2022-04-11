@@ -30,3 +30,5 @@ Its main functions are:
 * Then type `sh install_ttm.sh` and wait for installation to finish.
 * When setup is done, `restart` or `refresh` t-ui.
 
+## How to use 
+WIP...
