@@ -24,10 +24,10 @@ Its main functions are:
    * TEL / Termux or Busybox (the script needs to access curl or wget to execute some commands)
 <br>
 You can use this script in 2 ways:<br>
-   1. Through t-ui (if you have root* or without root if you can use curl or wget without the command "termux curl" / "termux wget")<br>
+   1. Through t-ui (if you have root[^1] or without root if you can use curl or wget without the command "termux curl" / "termux wget")<br>
    2. Via Termux or TEL or another Terminal emulator (remembering to install curl or wget if not present)<br>
 <br>
-export PATH=$PATH:/data/data/com.termux/files/usr/bin/
+[^1]: export PATH=$PATH:/data/data/com.termux/files/usr/bin/
 
 ## How to install
 
