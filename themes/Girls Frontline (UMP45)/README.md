@@ -11,3 +11,5 @@ Features:
 * Wallpaper included.
 * Colors perfectly matched the included wallpaper.
 * Mononoki Nerd Font included. (Recommended font)
+
+<img src="https://github.com/M4dGun/t-ui_themes/blob/main/themes/Girls%20Frontline%20(UMP45)/preview_1.jpg" data-canonical-src="https://github.com/M4dGun/t-ui_themes/blob/main/themes/Girls%20Frontline%20(UMP45)/preview_1.jpg" width="300" />
