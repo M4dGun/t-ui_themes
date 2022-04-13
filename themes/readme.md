@@ -1,6 +1,6 @@
 # THEMES LIST
 
-* #1 DRACULA v1: https://github.com/M4dGun/t-ui_themes/blob/main/README.md#-1---dracula-v1-=
+* #1 DRACULA v1: https://github.com/M4dGun/t-ui_themes/blob/main/README.md#-1---dracula-v1-
 * #2 DRACULA v2: https://github.com/M4dGun/t-ui_themes/blob/main/README.md#-2---dracula-v2-
 * #3 NetHunter v1: https://github.com/M4dGun/t-ui_themes/blob/main/README.md#-3---nethunter-v1
 * #4 NetHunter v2: https://github.com/M4dGun/t-ui_themes/blob/main/README.md#-4---nethunter-v2
