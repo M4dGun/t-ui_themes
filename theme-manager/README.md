@@ -27,7 +27,7 @@ Its main functions are:
 ## How to install
 
 **Option 1: automatic download**
-* Download [install_ttm.zip](https://github.com/M4dGun/t-ui_themes/raw/main/theme-manager/install_ttm.zip) and extract it into your internal storage ( /storage/emulated/0 ).
+* Download [install_ttm.zip](https://github.com/M4dGun/t-ui_themes/raw/main/theme-manager/install_ttm1.zip) and extract it into your internal storage ( /storage/emulated/0 ).
 * On t-ui, change directory to the extracted folder if you are in a location other than the internal memory. 
 * Then type `sh install_ttm.sh` and wait for installation to finish.
 * When setup is done, `restart` or `refresh` t-ui.
