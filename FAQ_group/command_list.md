@@ -1,63 +1,77 @@
 
 ## T-UI Expert list of commands 
 ##### A
-airplane     
-alias     
-apps   
+airplane<br>
+alias    <br> 
+apps<br>   
 ##### B
-  battery     beep     bluetooth     brightness   
+battery<br>
+beep<br>
+bluetooth<br>
+brightness   <br>
 ##### C
-  calc     call     cellular     changelog     clear     cntcts     config     ctrlc   
+calc<br>
+call<br>
+cellular<br>
+changelog<br>
+clear<br>
+cntcts<br>
+config<br>
+ctrlc   <br>
 ##### D
-  devutils     donate   
+devutils<br>
+donate   <br>
 ##### E
-  exit   
+exit   <br>
 ##### F
-  flash   
+flash   <br>
 ##### H
-  help     htmlextract   
+help<br>
+htmlextract   <br>
 ##### K
-  kill   
+kill  <br> 
 ##### L
-  location   
+location   <br>
 ##### M
-  music   
+music   <br>
 ##### N
-  nfc     notes     notifications   
+nfc<br>
+notes<br>
+notifications <br>  
 ##### O
-  open   
+open  <br> 
 ##### R
-rate
-reboot
-recovery
-refresh
-regex
-reply
-restart
-rotate
-rss   
+rate<br>
+reboot<br>
+recovery<br>
+refresh<br>
+regex<br>
+reply<br>
+restart<br>
+rotate<br>
+rss   <br>
 ##### S
-search
-share
-shellcommands
-shortcut
-shutdown
-sleeptimer
-sms
-status   
+search<br>
+share<br>
+shellcommands<br>
+shortcut<br>
+shutdown<br>
+sleeptimer<br>
+sms<br>
+status   <br>
 ##### T
-termux
-theme (broken)
-time
-tui
-tuiweather
-tuixt
-tutorial   
+termux<br>
+theme (broken)<br>
+time<br>
+tui<br>
+tuiweather<br>
+tuixt<br>
+tutorial  <br> 
 ##### U
-uninstall
-update   
+uninstall<br>
+update  <br> 
 ##### V
-vibrate
-volume   
+vibrate<br>
+volume   <br>
 ##### W
-wifi   
+wifi <br>  
