@@ -18,3 +18,6 @@ I added:
 
 
 I also remind you that to manage tui-e themes you can use my script: **[TTM](https://github.com/M4dGun/t-ui_themes/tree/main/theme-manager)**
+
+
+<img src="https://github.com/M4dGun/t-ui_themes/blob/main/themes/Hunting::Dracula/Preview__Hunting..Dracula.jpg" data-canonical-src="https://github.com/M4dGun/t-ui_themes/blob/main/themes/Hunting::Dracula/Preview__Hunting..Dracula.jpg" width="300" />
