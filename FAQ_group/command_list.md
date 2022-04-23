@@ -10,6 +10,7 @@ beep<br>
 bluetooth<br>
 brightness   <br>
 ##### C
+cal (calendar)<br>
 calc<br>
 call<br>
 cellular<br>
