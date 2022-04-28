@@ -81,8 +81,8 @@ ____________________________
 
 <img src="https://github.com/M4dGun/t-ui_themes/blob/main/themes/Hunting::Dracula/Preview__Hunting..Dracula.jpg" data-canonical-src="https://github.com/M4dGun/t-ui_themes/blob/main/themes/Hunting::Dracula/Preview__Hunting..Dracula.jpg" width="300" />
 
-**[Hunting::Dracula download](https://github.com/M4dGun/t-ui_themes/raw/main/themes/Hunting::Dracula/Hunting..Dracula.zip)**<br>
 **[Hunting::Dracula info](https://github.com/M4dGun/t-ui_themes/tree/main/themes/Hunting::Dracula)**<br>
+**[Hunting::Dracula download](https://github.com/M4dGun/t-ui_themes/raw/main/themes/Hunting::Dracula/Hunting_Dracula.zip)**<br>
 **[Wallpaper](https://github.com/M4dGun/t-ui_themes/raw/main/themes/Hunting::Dracula/Wallpaper_Hunting..Dracula.jpg)**<br>
 ____________________________
 
