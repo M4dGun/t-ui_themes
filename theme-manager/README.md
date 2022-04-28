@@ -31,7 +31,7 @@ Its main functions are:
 * On t-ui, change directory to the extracted folder if you are in a location other than the internal memory. 
 * Then type `sh install_ttm.sh` and wait for installation to finish.
 * When setup is done, `restart` or `refresh` t-ui.
-* (Optional) If you can't install ttm via t-ui, you need to use Termux / TEL or another Terminal Emulator: remember to install curl or wget if they are not present.
+* (Optional) If you can't install ttm via t-ui, you need to use Termux / TEL or another Terminal Emulator and use bash as the interpreter: `bash install_ttm.sh`
 
 <br>
 NOTE: if you can't install ttm anyway, because you don't have root or because the script doesn't find curl or wget, install ttm manually<br>
