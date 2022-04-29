@@ -90,13 +90,20 @@ To run ttm script in T-UI Expert without root, you need to be able to run the cu
 ### CASE 3️⃣ -- Through Termux/TEL or another Terminal emulator
 
 With TEL):<br>
-edit the ~/.zhsrc file with (for example) nano, type: <br>
+edit your ~/.zhsrc file with (for example) nano, type: <br>
 `nano ~/.zhsrc` <br>
 and add the following lines:<br>
-* `alias ttm -i='bash /storage/emulated/0/install_ttm.sh'`
+* `alias ttm-i='bash /storage/emulated/0/install_ttm.sh'`
 * `alias ttm='bash /storage/emulated/0/ttm'`
-* `alias ttm -p='am start -a android.intent.action.VIEW -d https://github.com/M4dGun/t-ui_themes'`
+* `alias ttm-p='am start -a android.intent.action.VIEW -d https://github.com/M4dGun/t-ui_themes'`
 <br>
+Now reload .zhsrc:
+*  . ~/.zshrc
+
+To install ttm just type: `ttm-i`<br>
+To check themes previews via GitHub, type: `ttm-p`<br>
+Type `ttm -h` to view all the other commands.<br>
+
 [W.I.P.....]<br>
 <br>
 
