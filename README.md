@@ -109,19 +109,29 @@ ____________________________
 ____________________________
 
 
-### # 8 - Girls Frontline (UMP45)<br>
+### # 8 - Girls Frontline 1 (UMP45)<br>
 *(credits: @deadrabbit404)*
 
 <img src="https://github.com/M4dGun/t-ui_themes/blob/main/themes/Girls%20Frontline%20(UMP45)/preview_2.jpg" data-canonical-src="https://github.com/M4dGun/t-ui_themes/blob/main/themes/Girls%20Frontline%20(UMP45)/preview_2.jpg" width="300" />
 
-**[Girls Frontline info](https://github.com/M4dGun/t-ui_themes/blob/main/themes/Girls%20Frontline%20(UMP45)/README.md)**<br>
-**[Girls Frontline download](https://github.com/M4dGun/t-ui_themes/raw/main/themes/Girls%20Frontline%20(UMP45)/GF-UMP45.zip)**<br>
+**[Girls Frontline 1 info](https://github.com/M4dGun/t-ui_themes/blob/main/themes/Girls%20Frontline%20(UMP45)/README.md)**<br>
+**[Girls Frontline 1 download](https://github.com/M4dGun/t-ui_themes/raw/main/themes/Girls%20Frontline%20(UMP45)/GF-UMP45.zip)**<br>
 **[Wallpaper](https://github.com/M4dGun/t-ui_themes/raw/main/themes/Girls%20Frontline%20(UMP45)/wallpaper_gf-ump45.jpg)**<br>
 ____________________________
 
 
+### # 9 - Girls Frontline 2 (M4A1)<br>
+*(credits: @deadrabbit404)*
 
-### # 9 - Koban<br>
+<img src="https://github.com/M4dGun/t-ui_themes/blob/main/themes/Girls%20Frontline%20(M4A1)/preview_1.jpg" data-canonical-src="https://github.com/M4dGun/t-ui_themes/blob/main/themes/Girls%20Frontline%20(M4A1)/preview_1.jpg" width="300" />
+
+**[Girls Frontline 2 info](https://github.com/M4dGun/t-ui_themes/blob/main/themes/Girls%20Frontline%20(M4A1)/readme.md)**<br>
+**[Girls Frontline 2 download](https://github.com/M4dGun/t-ui_themes/raw/main/themes/Girls%20Frontline%20(M4A1)/GF-M4A1.zip)**<br>
+**[Wallpaper](https://github.com/M4dGun/t-ui_themes/raw/main/themes/Girls%20Frontline%20(M4A1)/wallpaper_gf-m4a1.png)**<br>
+____________________________
+
+
+### # 10 - Koban<br>
 *(credits: Sharif)*
 
 <img src="https://github.com/M4dGun/t-ui_themes/blob/main/themes/Koban/koban_preview.jpg" data-canonical-src="https://github.com/M4dGun/t-ui_themes/blob/main/themes/Koban/koban_preview.jpg" width="300" />
@@ -132,7 +142,7 @@ ____________________________
 
 
 
-### # 10 - WallX<br>
+### # 11 - WallX<br>
 *(credits: S̵̓t̴͝ë̸́v̴̐e̸̒)*
 
 <img src="https://github.com/M4dGun/t-ui_themes/blob/main/WallX_theme/screenshot_WallX.jpg" data-canonical-src="https://github.com/M4dGun/t-ui_themes/blob/main/WallX_theme/screenshot_WallX.jpg" width="300" />
@@ -141,7 +151,7 @@ ____________________________
 **[Wallpaper](https://github.com/M4dGun/t-ui_themes/raw/main/WallX_theme/WallX_Wallpaper_1440x2560.jpeg)**<br>
 ____________________________
 
-### # 11 - TOMBOY GIRL<br>
+### # 12 - TOMBOY GIRL<br>
 *(credits: @Ferytell)*
 
 <img src="https://github.com/M4dGun/t-ui_themes/blob/main/Tomboy.girl_theme/screenshot_tomboy_girl.jpg" data-canonical-src="https://github.com/M4dGun/t-ui_themes/blob/main/Tomboy.girl_theme/screenshot_tomboy_girl.jpg" width="300" />
@@ -151,7 +161,7 @@ ____________________________
 ____________________________
 
 
-### # 12 - Mellogram<br>
+### # 13 - Mellogram<br>
 *(credits: Mell [@Holdy_bot]⁣)*
 
 <img src="https://github.com/M4dGun/t-ui_themes/blob/main/themes/Mellogram/Mellogram_preview.jpg" data-canonical-src="https://github.com/M4dGun/t-ui_themes/blob/main/themes/Mellogram/Mellogram_preview.jpg" width="300" />
