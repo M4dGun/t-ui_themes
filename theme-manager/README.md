@@ -92,9 +92,8 @@ To run ttm script in T-UI Expert without root, you need to be able to run the cu
 With TEL):
 edit the ~ / .zhsrc file and add the following lines:
 
-`alias ttm -i='bash /storage/emulated/0/install_ttm.sh'`
-`alias ttm='bash /storage/emulated/0/ttm'`
-`alias ttm -p='bash /storage/emulated/0/ttm'`
+`alias ttm -i='bash /storage/emulated/0/install_ttm.sh'`<br>
+`alias ttm='bash /storage/emulated/0/ttm'`<br>
 
 
 TERMUX):
