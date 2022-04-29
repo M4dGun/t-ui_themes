@@ -94,9 +94,9 @@ edit the ~ / .zhsrc file and add the following lines:
 
 `alias ttm -i='bash /storage/emulated/0/install_ttm.sh'`<br>
 `alias ttm='bash /storage/emulated/0/ttm'`<br>
-
-
-TERMUX):
+`alias ttm -p='am start -a android.intent.action.VIEW -d https://github.com/M4dGun/t-ui_themes'`<br>
+<br>
+With TERMUX):<br>
 
 WIP....
 
