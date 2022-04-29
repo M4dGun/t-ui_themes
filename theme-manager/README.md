@@ -96,10 +96,13 @@ edit the ~ / .zhsrc file and add the following lines:
 `alias ttm='bash /storage/emulated/0/ttm'`<br>
 `alias ttm -p='am start -a android.intent.action.VIEW -d https://github.com/M4dGun/t-ui_themes'`<br>
 <br>
+[W.I.P.....]<br>
+<br>
+
 With TERMUX):<br>
-
-WIP....
-
+<br>
+WIP....<br>
+<br>
 
 ## TTM options
 WIP...
