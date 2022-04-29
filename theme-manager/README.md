@@ -66,6 +66,8 @@ If you are rooted then export Termux/TEL user bin folder into the $PATH. From tu
 Now you can use all commands of Termux bin folder from tuie. <br>
 Test it: type `curl --help`<br>
 
+Now type `ttm -h` to view all available commands.<br>
+
 **Important:** *This needs to be done for every session like if TUI Expert app re-launchs or the phone is rebooted etc.. so add an alias called init, type:*<br>
 `alias -file` <br>
 *Copy and paste this line at the end of file:*<br>
@@ -89,25 +91,21 @@ To run ttm script in T-UI Expert without root, you need to be able to run the cu
 
 ### CASE 3️⃣ -- Through Termux/TEL or another Terminal emulator
 
-With TEL):<br>
+#### With TEL):
 edit your ~/.zhsrc file with (for example) nano, type: <br>
 `nano ~/.zhsrc` <br>
 and add the following lines:<br>
-* `alias ttm-i='bash /storage/emulated/0/install_ttm.sh'`
 * `alias ttm='bash /storage/emulated/0/ttm'`
 * `alias ttm-p='am start -a android.intent.action.VIEW -d https://github.com/M4dGun/t-ui_themes'`
 <br>
-Now reload .zhsrc:
-*  . ~/.zshrc
+Now reload .zhsrc:<br>
+* `. ~/.zshrc`
 
-To install ttm just type: `ttm-i`<br>
 To check themes previews via GitHub, type: `ttm-p`<br>
 Type `ttm -h` to view all the other commands.<br>
-
-[W.I.P.....]<br>
 <br>
 
-With TERMUX):<br>
+#### With TERMUX):<br>
 <br>
 WIP....<br>
 <br>
