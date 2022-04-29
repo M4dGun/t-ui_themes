@@ -89,12 +89,13 @@ To run ttm script in T-UI Expert without root, you need to be able to run the cu
 
 ### CASE 3️⃣ -- Through Termux/TEL or another Terminal emulator
 
-With TEL):
-edit the ~ / .zhsrc file and add the following lines:
-
-`alias ttm -i='bash /storage/emulated/0/install_ttm.sh'`<br>
-`alias ttm='bash /storage/emulated/0/ttm'`<br>
-`alias ttm -p='am start -a android.intent.action.VIEW -d https://github.com/M4dGun/t-ui_themes'`<br>
+With TEL):<br>
+edit the ~/.zhsrc file with (for example) nano, type: <br>
+`nano ~/.zhsrc` <br>
+and add the following lines:<br>
+* `alias ttm -i='bash /storage/emulated/0/install_ttm.sh'`
+* `alias ttm='bash /storage/emulated/0/ttm'`
+* `alias ttm -p='am start -a android.intent.action.VIEW -d https://github.com/M4dGun/t-ui_themes'`
 <br>
 [W.I.P.....]<br>
 <br>
