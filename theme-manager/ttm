@@ -1,0 +1,304 @@
+#!/bin/sh
+## T-ui Theme Manager
+## Author  	: Ema (with the help of Arun and ĐɆ₳ĐⱤ₳฿฿ł₮; thank u guys)
+## Github  	: @M4dGun
+## Telegram : @UnderTheGun1
+## T-ui group: https://t.me/tuilauncher
+##
+## #####  #  #  #####"
+##   #    #  #    #
+##   #    #  #    #   
+##   #    ####  #####
+##
+######
+PROGNAME=ttm
+
+## DIRECTORY
+tui=/storage/emulated/0/t-ui
+sd=/storage/emulated/0
+sdt=/storage/emulated/0/tui-themes_and_backup
+SCRIPTDIR="$TUIDIR/script"
+# timestamp=$(date +%Y%m%d%H%M)
+
+## FILES
+BACKUP="$sdt/tui-backup.tar"
+ALIASTXT="$tui/alias.txt"
+SCRIPT="ttm"
+
+## LINKS
+REMOTEHOST="https://github.com/M4dGun/t-ui_themes/raw/main"
+THEMES="https://github.com/M4dGun/t-ui_themes/raw/main/database"
+THEMES_LIST=("dracula_v1.zip" "Dracula_v2.zip" "NetHunter_v1.zip" "NetHunter_v2.zip" "Hunting_Dracula.zip" "grid.zip" "t-ui_dev_2.zip" "t-ui_Dev-2.3.zip" "GF-UMP45.zip" "GF-M4A1.zip" "koban.zip" "wallx.zip" "tomboy.zip" "Mellogram.zip")
+SCRIPT_LINK="https://raw.githubusercontent.com/M4dGun/t-ui_themes/main/theme-manager/ttm"
+
+## THEMES
+theme_1="Dracula_v1"
+theme_2="Dracula_v2"
+theme_3="NetHunter_v1"
+theme_4="NetHunter_v2"
+theme_5="Hunting_Dracula"
+theme_6="Grid"
+theme_7="T-ui Dev 2"
+theme_8="T-ui Dev 2.3"
+theme_9="Girls Frontline 1"
+theme_10="Girls Frontline 2"
+theme_11="Koban"
+theme_12="WallX"
+theme_13="Tomboy Girl"
+theme_14="Mellogram"
+theme_15=ff
+
+
+print_header () {
+	echo " T-ui Theme Manager"
+	printf "\n  \n"
+	printf "\n #####  #####   ##   ##"
+    printf "\n   #      #     # # # #"
+    printf "\n   #      #     #  #  #"
+    printf "\n   #      #     #     #\n"
+    printf "\n  \n"
+}
+
+
+show_help(){
+
+	padding=-14
+	print_header
+	printf "%s\n" \
+	    " USAGE: $PROGNAME [-h, --help]   [-v, --version]"\
+        "            [-l, --list]   [-p, --preview]"\
+        "            [-u, --update] [1 or 2 or 3...]"\
+        "            [-b, --backup] [-r, --restore]"
+		
+    printf " \n"
+    printf "  %${padding}s %s\n" \
+	    "1 or 2 or 3..." "Install theme n.1 (or 2 or 3 etc)" \
+        "-u, --update" "Update ttm script" \
+        "-l, --list" "Show available themes" \
+        "-p, --preview" "Screenshots of available themes" \
+        "-b, --backup" "Backup current theme (tar format)" \
+        "-r, --restore" "Restore previous saved theme" \
+        "-h, --help" "Print this help message" \
+        "-v, --version" "Print ttm script version"
+        
+	printf " \n"
+	printf "  %${padding}s %s\n" \
+        "Note: Update ttm to get the latest list" \
+        "" "      of available themes"
+	exit 1
+}
+
+
+show_theme(){
+
+	echo " T-ui Theme Manager"
+	padding=-22
+	printf " \n"
+	printf "%s\n" \
+	    " -------------------------------------------- "\
+        "               THEMES AVAILABLE               "
+    printf " \n"
+    printf "  %${padding}s %s\n"\
+	    "1.$theme_1"\
+		"2.$theme_2"\
+		"3.$theme_3"\
+		"4.$theme_4"\
+		"5.$theme_5"\
+		"6.$theme_6"\
+		"7.$theme_7"\
+		"8.$theme_8"\
+		"9.$theme_9"\
+		"10.$theme_10"\
+		"11.$theme_11"\
+		"12.$theme_12"\
+		"13.$theme_13"\
+		"14.$theme_14"
+
+	printf "%s\n \n " \
+	    " -------------------------------------------- "
+	    
+	printf "%s\n " \
+		":: To download a theme type: ttm number" \
+		"   Example: ttm 2 [to download Dracula_v2] "
+		
+    printf " \n"
+	printf "%s\n " \
+		" :: Type ttm -p to see previews (via GitHub) "
+
+    exit 1
+}
+
+update_ttm(){
+	echo " T-ui Theme Manager"
+
+	printf "\n \n :: Please wait... \n \n" ; sleep 1.5
+	
+	if [[(-f /bin/curl)]]; then
+        cd $tui && curl -L $SCRIPT_LINK -o $tui/$PROGNAME
+    else
+        cd $tui && wget -c $SCRIPT_LINK
+	fi
+	
+	# Checking the result of the previous command
+	if [ $? -ne '0' ]; then
+	printf "\n \n :: Please run ttm script via Termux/TEL or another Terminal emulator: check wiki for more info. \n " ; exit 1
+	fi
+	printf "\n \n :: Updating ttm script... \n " ; sleep 1.0
+
+	rm $sd/$PROGNAME
+	cd $tui
+	mv $PROGNAME $sd/$PROGNAME
+
+    printf "\n :: ttm script updated! \n "
+	printf "\n :: There's no need to restart t-ui! \n" ; exit 0
+}
+    
+backup1(){
+	print_header
+
+	if [[ -d $sdt ]]; then
+	echo " tui-themes_and_backup dir alredy exist " ;
+	else
+	mkdir $sdt &>/dev/null
+	fi
+
+	tar cf $sdt/tui-backup.tar $tui 	
+
+	if [ $? -ne '0' ]; then 
+    printf ":: An error occurred!\n" \ ; exit 1
+	fi
+    printf ":: Success! Backup completed.\n" ; exit 0
+  
+}
+
+restore(){
+	print_header
+
+	# Restore previous theme
+    if [ -f "$BACKUP" ]
+    then
+        echo " :: Restoring previous theme... Please wait..." ; sleep 1.0
+		rm -r $tui &>/dev/null
+        cd $sdt && tar -xvf tui-backup.tar
+		cd $sdt/$sd && mv t-ui $sd
+		rm -r $sdt/storage &>/dev/null
+		printf " \n"
+        echo " :: Done. Please restart t-ui."
+    else
+        echo " :: No previous backup found. Aborting..."
+    fi
+	
+    exit $?
+}
+
+version(){
+	echo " T-ui Theme Manager"
+	printf " \n"
+	echo " version 1.14 "
+	
+	exit 1
+}
+
+  
+install_theme(){
+	print_header
+	
+	if [[ -d $sdt ]]; then
+	echo " tui-themes dir alredy exist " ;
+	else
+	mkdir $sdt &>/dev/null
+	fi
+
+	printf "\n  \n :.: Please wait... " ; sleep 1.0
+
+
+	## BACKUP CURRENT THEME
+	tar cf $sdt/tui-backup.tar $tui # &>/dev/null
+	printf "\n \n :.: Backup completed " ; sleep 1.0
+	printf "\n \n :.: Downloading theme... \n " ; sleep 1.5
+		
+	if [[(-f /bin/curl)]]; then
+        cd $sdt && curl -LJO "$THEMES/$CHOSEN_THEME"
+    else
+        cd $sdt && wget -c "$THEMES/$CHOSEN_THEME"
+	fi
+	
+	if [ $? -ne '0' ]; then
+	printf "\n \n :.: Please run ttm script via Termux/TEL or another Terminal emulator: check wiki for more info. " ; exit 1
+	fi
+	
+	printf "\n :.: Download completed. " ; sleep 1.5
+	
+	printf "\n \n :.: Installing... \n " ; sleep 1.0
+
+	cd $tui && mv -f expert.xml expert.xml.bak && cd $sdt
+	
+	CHOSEN_THEME="${CHOSEN_THEME##*/}"
+	rm -rf $tui/*.ttf $tui/*.otf
+	unzip -o $CHOSEN_THEME -d $tui ; cd $tui/t-ui && cp -r * $tui  ;
+	rm -rf $tui/t-ui
+
+	# Test if ttm alias already exist ## thank you @deadrabbit404
+	grep "^ttm" $ALIASTXT >/dev/null 2>&1
+	if [ $? -ne 0 ]
+	then
+		# Test if the file has no EOL, then print a blank line.
+		[ -n "`tail -c 1 $ALIASTXT`" ] && echo >> $ALIASTXT 
+		echo "ttm =sh $sd/$PROGNAME %" >> $ALIASTXT
+		echo "ttm -p=search -u https://github.com/M4dGun/t-ui_themes" >> $ALIASTXT
+
+		printf "\n \n :.: Added ttm alias in new alias.txt \n " ; sleep 1.0
+	else
+		# This means the alias already exists.
+		# Replace whatever value assigned to the alias with a new one that points to ttm script
+		sed -i "s#\(^ttm =\).*\$#\1sh $sd/$PROGNAME %#" $ALIASTXT
+		printf "\n \n :.: ttm alias already exists, nothing to change \n " ; sleep 1.0
+	fi
+	
+	printf "\n ::: THEME INSTALLED ::: " ; sleep 1.5
+	
+	printf "\n \n :.: NOTE: "
+	printf "\n :.: Check tui folder to use theme's wallpaper " ; sleep 1.0
+	printf "\n :.: Type ttm -r to restore your previous theme " ; sleep 1.0
+
+	printf "\n \n :.: Now type restart in t-ui. Cheers \n "
+	
+	exit 0
+}
+
+
+## [123456789]|10|11|12|13)
+## index=$(($1-1))   CHOSEN_THEME="{THEME_LIST[$index]}"
+
+
+case "$1" in
+
+    [123456789]|10|11|12|13|14)
+	index=$(($1 - 1))
+	CHOSEN_THEME="${THEMES_LIST[$index]}"
+        ;;
+    -l|--list|%)
+        show_theme
+        ;;
+    -u|--update)
+        update_ttm
+        ;;        
+    -v|--version)
+        version
+        ;;
+    -b|--backup)
+        backup1
+        ;;    
+    -r|--restore)
+        restore
+        ;;            
+    -h|--help)
+		show_help
+        ;;
+    *)
+        printf " :: Invalid option. Type 'ttm -h' to show help \n"
+        exit 1
+        ;;
+esac
+
+install_theme ## call the install function.
