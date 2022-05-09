@@ -1,9 +1,3 @@
-# #didyouknow
-
-##### 📢📢  Ladies and gentlemen, I present to you the new column: #didyouknow?
-##### With this column I will post messages containing little tips about T-UI configuration, lesser known options or useful commands.  To view all the messages sent, simply use the search button and type: #didyouknow
-
-
 ## #didyouknow-01
 
 
