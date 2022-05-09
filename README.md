@@ -112,7 +112,7 @@ ____________________________
 ### # 8 - T-ui Dev 2.3<br>
 *(credits: Vram)*
 
-<img src="https://github.com/M4dGun/t-ui_themes/blob/main/themes/t-ui_dev_2.3/t-ui_Dev-2.3_preview.jpg" data-canonical-src="https://github.com/M4dGun/t-ui_themes/blob/main/themes/t-ui_dev_2.3/t-ui_Dev-2.3_preview.jpg" width="300" />
+<img src="https://github.com/M4dGun/t-ui_themes/blob/main/themes/t-ui_dev_2.3/t-ui_Dev-2.3_preview2.jpg" data-canonical-src="https://github.com/M4dGun/t-ui_themes/blob/main/themes/t-ui_dev_2.3/t-ui_Dev-2.3_preview2.jpg" width="300" />
 
 **[T-ui Dev 2.3 download](https://github.com/M4dGun/t-ui_themes/raw/main/themes/t-ui_dev_2.3/t-ui_Dev-2.3.zip)**<br>
 **No available wallpaper**<br>
