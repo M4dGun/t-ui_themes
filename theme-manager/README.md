@@ -61,7 +61,13 @@ NOTE: if you can't install ttm anyway, because you don't have root or because th
 
 If you are rooted then export Termux/TEL user bin folder into the $PATH. From tuie type:
 
-`export PATH=$PATH:/data/data/com.termux/files/usr/bin/:/data/data/com.termux/files/usr/bin/applets && su -c`
+`export PATH=$PATH:/data/data/com.termux/files/usr/bin/:/data/data/com.termux/files/usr/bin/applets && su -c tsu`
+
+>**NOTE**: *If you are using Termux instead of TEL, it is likely that you need to install the `tsu` package, from Termux then type:
+`pkg install tsu` <br>
+>This step is not mandatory, you can use ttm script even without tsu package but you will need to change the "init" alias as follows:
+`init=export PATH=$PATH:/data/data/com.termux/files/usr/bin/:/data/data/com.termux/files/usr/bin/applets` <br> 
+>and remember, whenever you want to use the ttm 'install' and/or 'update' options, or the termux commands from T-UI, you will first have to type `su` and then `init` commands.*
       
 Now you can use all commands of Termux bin folder from tuie. <br>
 Test it: type `curl --help`<br>
