@@ -104,7 +104,7 @@ and add the following lines:<br>
 * `alias ttm='bash /storage/emulated/0/ttm'`
 * `alias ttm-p='am start -a android.intent.action.VIEW -d https://github.com/M4dGun/t-ui_themes'`
 <br>
-Now reload .zhsrc:  . ~/.zshrc
+Now reload .zhsrc, type: ` . ~/.zshrc`
 
 To check themes previews via GitHub, type: `ttm-p`<br>
 Type `ttm -h` to view all the other commands.<br>
