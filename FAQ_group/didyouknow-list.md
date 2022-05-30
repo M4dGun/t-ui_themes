@@ -8,8 +8,14 @@ To view all the tips, simply check the list below or search for the word <i>#did
 
 ### [#didyouknow - 01: Quick alias](https://github.com/M4dGun/t-ui_themes/blob/main/FAQ_group/didyouknow_01.md)
 
-[WIP]<br>
+
+### [#didyouknow - 02: Add shortcut to webpages](https://github.com/M4dGun/t-ui_themes/blob/main/FAQ_group/didyouknow_02.md)
+
+
 <br>
-#didyouknow - 02: ......<br>
+
 #didyouknow - 03: ......<br>
+
 #didyouknow - 04: ......<br>
+
+[WIP]<br>
