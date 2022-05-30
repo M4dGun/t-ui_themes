@@ -12,8 +12,9 @@ In normal launchers you can add shortcut to web pages easily  (which almost all 
 2) Now you can just add alias like
 `alias --add ALIASname browse WEBpage`<br>
 For example: `alias --add anilist browse anilist.co `
-and profit.
 
+
+3) Now it will be sufficient to type `anilist` to open the website directly through the default browser  
 
 **NOTE**<br>
 <i>if you use http:// instead of https:// sometimes you don't have to type in the whole address (depends on browser),<i>
