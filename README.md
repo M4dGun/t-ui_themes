@@ -141,7 +141,7 @@ ____________________________
 
 
 ### # 11 - Arch-neofetch<br>
-*(credits: Aryan Solanki @kiteshwar-pujara)*
+*(credits: Aryan Solanki [@kiteshwar-pujara](https://github.com/kiteshwar-pujara) )*
 
 <img src="https://github.com/M4dGun/t-ui_themes/blob/main/themes/Arch-neofetch/Arch-neofetch_preview.jpg" data-canonical-src="https://github.com/M4dGun/t-ui_themes/blob/main/themes/Arch-neofetch/Arch-neofetch_preview.jpg" width="300" />
 
