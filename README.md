@@ -140,7 +140,17 @@ ____________________________
 ____________________________
 
 
-### # 11 - Koban<br>
+### # 11 - Arch-neofetch<br>
+*(credits: Aryan Solanki @kiteshwar-pujara)*
+
+<img src="https://github.com/M4dGun/t-ui_themes/blob/main/themes/Arch-neofetch/Arch-neofetch_preview.jpg" data-canonical-src="https://github.com/M4dGun/t-ui_themes/blob/main/themes/Arch-neofetch/Arch-neofetch_preview.jpg" width="300" />
+
+**[Arch-neofetch download](https://github.com/M4dGun/t-ui_themes/raw/main/themes/Arch-neofetch/Arch-neofetch.zip)**<br>
+
+____________________________
+
+
+### # 12 - Koban<br>
 *(credits: Sharif)*
 
 <img src="https://github.com/M4dGun/t-ui_themes/blob/main/themes/Koban/koban_preview.jpg" data-canonical-src="https://github.com/M4dGun/t-ui_themes/blob/main/themes/Koban/koban_preview.jpg" width="300" />
@@ -151,7 +161,7 @@ ____________________________
 
 
 
-### # 12 - WallX<br>
+### # 13 - WallX<br>
 *(credits: S̵̓t̴͝ë̸́v̴̐e̸̒)*
 
 <img src="https://github.com/M4dGun/t-ui_themes/blob/main/WallX_theme/screenshot_WallX.jpg" data-canonical-src="https://github.com/M4dGun/t-ui_themes/blob/main/WallX_theme/screenshot_WallX.jpg" width="300" />
@@ -160,7 +170,8 @@ ____________________________
 **[Wallpaper](https://github.com/M4dGun/t-ui_themes/raw/main/WallX_theme/WallX_Wallpaper_1440x2560.jpeg)**<br>
 ____________________________
 
-### # 13 - TOMBOY GIRL<br>
+
+### # 14 - TOMBOY GIRL<br>
 *(credits: @Ferytell)*
 
 <img src="https://github.com/M4dGun/t-ui_themes/blob/main/Tomboy.girl_theme/screenshot_tomboy_girl.jpg" data-canonical-src="https://github.com/M4dGun/t-ui_themes/blob/main/Tomboy.girl_theme/screenshot_tomboy_girl.jpg" width="300" />
@@ -170,7 +181,7 @@ ____________________________
 ____________________________
 
 
-### # 14 - Mellogram<br>
+### # 15 - Mellogram<br>
 *(credits: Mell [@Holdy_bot]⁣)*
 
 <img src="https://github.com/M4dGun/t-ui_themes/blob/main/themes/Mellogram/Mellogram_preview.jpg" data-canonical-src="https://github.com/M4dGun/t-ui_themes/blob/main/themes/Mellogram/Mellogram_preview.jpg" width="300" />
