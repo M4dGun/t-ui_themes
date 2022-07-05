@@ -166,7 +166,8 @@ ____________________________
 
 <img src="https://github.com/M4dGun/t-ui_themes/blob/main/themes/Arch-neofetch/Arch_Neofetch_V2_preview.jpg" data-canonical-src="https://github.com/M4dGun/t-ui_themes/blob/main/themes/Arch-neofetch/Arch_Neofetch_V2_preview.jpg" width="300" />
 
-**[Arch-neofetch download](https://github.com/M4dGun/t-ui_themes/raw/main/themes/Arch-neofetch/Arch-neofetch.zip)**<br>
+**[Arch-neofetch info](https://github.com/M4dGun/t-ui_themes/tree/main/themes/Arch-neofetch)**<br>
+**[Arch-neofetch download](https://github.com/M4dGun/t-ui_themes/raw/main/themes/Arch-neofetch/Arch_Neofetch_V2.zip)**<br>
 
 ____________________________
 
