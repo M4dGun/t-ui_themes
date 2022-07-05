@@ -25,7 +25,7 @@ TTM script can be found in **[theme-manager folder](https://github.com/M4dGun/t-
 
 
 
-### # 2 - TOKYO NIGHT "pure" version v0.9 and "extra" version v1.0 <br>
+### # 1 - TOKYO NIGHT "pure" version v0.9 and "extra" version v1.0 <br>
 *(credits: me)*
 
 **PURE version v0.9:**<br>
@@ -33,7 +33,7 @@ TTM script can be found in **[theme-manager folder](https://github.com/M4dGun/t-
 <img src="https://github.com/M4dGun/t-ui_themes/blob/main/themes/Tokyo%20Night/Pure_version_1.jpg" data-canonical-src="https://github.com/M4dGun/t-ui_themes/blob/main/themes/Tokyo%20Night/Pure_version_1.jpg" width="300" />  <img src="https://github.com/M4dGun/t-ui_themes/blob/main/themes/Tokyo%20Night/Pure_version_2.jpg" data-canonical-src="https://github.com/M4dGun/t-ui_themes/blob/main/themes/Tokyo%20Night/Pure_version_2.jpg" width="300" /><br>
 
 **[Tokyo Night info](https://github.com/M4dGun/t-ui_themes/blob/main/themes/Dracula_V1/README.md)**<br>
-**[Tokyo Night - PURE version download](https://github.com/M4dGun/t-ui_themes/raw/main/themes/Dracula_V1/dracula_v1.zip)**<br>
+**[Tokyo Night - PURE version download](https://github.com/M4dGun/t-ui_themes/raw/main/themes/Tokyo%20Night/Tokyo_Night_0.9(Pure%20Version).rar)**<br>
 **[Tokyo Night - EXTRA version download](https://github.com/M4dGun/t-ui_themes/raw/main/themes/Dracula_V1/dracula_v1.zip)**<br>
 **[Wallpaper](https://github.com/M4dGun/t-ui_themes/raw/main/themes/Dracula_V1/Dracula_wallpaper.png)**<br>
 
