@@ -38,7 +38,7 @@ TTM script can be found in **[theme-manager folder](https://github.com/M4dGun/t-
 <img src="https://github.com/M4dGun/t-ui_themes/blob/main/themes/Tokyo%20Night/Extra_version_1.jpg" data-canonical-src="https://github.com/M4dGun/t-ui_themes/blob/main/themes/Tokyo%20Night/Extra_version_1.jpg" width="300" />  <img src="https://github.com/M4dGun/t-ui_themes/blob/main/themes/Tokyo%20Night/Extra_version_2.jpg" data-canonical-src="https://github.com/M4dGun/t-ui_themes/blob/main/themes/Tokyo%20Night/Extra_version_2.jpg" width="300" /><br>
 
 **[Tokyo Night info](https://github.com/M4dGun/t-ui_themes/blob/main/themes/Dracula_V1/README.md)**<br>
-**[Difference between "pure" and "extra" version](https://github.com/M4dGun/t-ui_themes/edit/main/themes/Tokyo%20Night/README.md#difference-between-pure-and-extra-version=)**<br>
+**[Difference between "pure" and "extra" version](https://github.com/M4dGun/t-ui_themes/edit/main/themes/Tokyo%20Night/README.md#difference-between-pure-and-extra-version)**<br>
 **[Tokyo Night - PURE version download](https://github.com/M4dGun/t-ui_themes/raw/main/themes/Tokyo%20Night/Tokyo_Night_0.9(Pure%20Version).rar)**<br>
 **[Tokyo Night - EXTRA version download](https://github.com/M4dGun/t-ui_themes/raw/main/themes/Tokyo%20Night/Tokyo_Night_Extra_version_1.0.zip)**<br>
 **[Wallpaper](https://github.com/M4dGun/t-ui_themes/raw/main/themes/Tokyo%20Night/Wallpaper_Tokyo_Night%20.jpg)**<br>
