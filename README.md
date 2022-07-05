@@ -164,7 +164,7 @@ ____________________________
 ### # 12 - Arch-neofetch<br>
 *(credits: Aryan Solanki [@kiteshwar-pujara](https://github.com/kiteshwar-pujara) )*
 
-<img src="https://github.com/M4dGun/t-ui_themes/blob/main/themes/Arch-neofetch/Arch-neofetch_preview.jpg" data-canonical-src="https://github.com/M4dGun/t-ui_themes/blob/main/themes/Arch-neofetch/Arch-neofetch_preview.jpg" width="300" />
+<img src="https://github.com/M4dGun/t-ui_themes/blob/main/themes/Arch-neofetch/Arch_Neofetch_V2_preview.jpg" data-canonical-src="https://github.com/M4dGun/t-ui_themes/blob/main/themes/Arch-neofetch/Arch_Neofetch_V2_preview.jpg" width="300" />
 
 **[Arch-neofetch download](https://github.com/M4dGun/t-ui_themes/raw/main/themes/Arch-neofetch/Arch-neofetch.zip)**<br>
 
