@@ -13,10 +13,6 @@ video: https://t.me/t_ui_themes_v2/1111
 
 
 
-
-
-==========================
-
 ### 🔍✏️ INFO:
 
 **WEATHER**: the weather (via custom_command) should automatically recognize your location, otherwise open the expert.xml file and in the penultimate line add your city, for example:
@@ -34,3 +30,29 @@ to create a group, type:
 apps -mkgp groupNAME
 
 **TO-DO**: if you use my alias, you can use notes with the todo and showtodo commands, try!
+
+
+
+
+
+
+
+## ㊗️ TOKYO NIGHT - "extra" version 1.0
+
+Here is the "extra" version of Tokyo Night, which requires the installation of an additional application that I provide in the zip package [(plus a theme created by me) please consider purchasing the attached app, to support the developer (it's not me) ].
+
+📐Before continuing, I would like to clarify that, if you have a display different than mine (6,55", 2400x1080), you will have to manually align the additional elements.
+
+🔍Difference between "pure" and "extra" version:
+
+1) Weather: the "extra" version shows the forecast for the next 5 days, in addition to the current situation
+
+2) Download speed: a small widget shows the download speed
+
+3) CPU speed: speed and percentage of CPU usage
+
+4) Battery temperature: another small widget shows the real time temperature of the battery
+
+5) More info: here you can read some features of this theme, including an introduction video, which also applies to this "extra" version (weather function excluded): https://t.me/t_ui_themes_v2/1098
+
+≠=======================
