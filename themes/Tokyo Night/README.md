@@ -43,7 +43,7 @@ Here is the "extra" version of Tokyo Night, which requires the installation of a
 
 📐Before continuing, I would like to clarify that, if you have a display different than mine (6,55", 2400x1080), you will have to manually align the additional elements.
 
-#### 🔍Difference between "pure" and "extra" version:
+### 🔍Difference between "pure" and "extra" version:
 
 1) Weather: the "extra" version shows the forecast for the next 5 days, in addition to the current situation
 
