@@ -8,6 +8,13 @@ The "Pure" version only uses t-ui expert while the "Extra" version requires the 
 
 video: https://t.me/t_ui_themes_v2/1111
 
+
+<img src="https://github.com/M4dGun/t-ui_themes/blob/main/themes/Tokyo%20Night/Pure_version_1.jpg" data-canonical-src="https://github.com/M4dGun/t-ui_themes/blob/main/themes/Tokyo%20Night/Pure_version_1.jpg" width="250" />  <img src="https://github.com/M4dGun/t-ui_themes/blob/main/themes/Tokyo%20Night/Pure_version_2.jpg" data-canonical-src="https://github.com/M4dGun/t-ui_themes/blob/main/themes/Tokyo%20Night/Pure_version_2.jpg" width="250" /><br>
+
+
+
+
+
 ==========================
 
 ### 🔍✏️ INFO:
