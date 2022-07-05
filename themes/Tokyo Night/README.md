@@ -39,6 +39,12 @@ apps -mkgp groupNAME
 
 ## ㊗️ TOKYO NIGHT - "extra" version 1.0
 
+
+
+<img src="https://github.com/M4dGun/t-ui_themes/blob/main/themes/Tokyo%20Night/Extra_version_1.jpg" data-canonical-src="https://github.com/M4dGun/t-ui_themes/blob/main/themes/Tokyo%20Night/Extra_version_1.jpg" width="235" />  <img src="https://github.com/M4dGun/t-ui_themes/blob/main/themes/Tokyo%20Night/Extra_version_2.jpg" data-canonical-src="https://github.com/M4dGun/t-ui_themes/blob/main/themes/Tokyo%20Night/Extra_version_2.jpg" width="250" /><br>
+
+
+
 Here is the "extra" version of Tokyo Night, which requires the installation of an additional application that I provide in the zip package [(plus a theme created by me) please consider purchasing the attached app, to support the developer (it's not me) ].
 
 📐Before continuing, I would like to clarify that, if you have a display different than mine (6,55", 2400x1080), you will have to manually align the additional elements.
