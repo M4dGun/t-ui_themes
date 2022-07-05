@@ -34,7 +34,7 @@ TTM script can be found in **[theme-manager folder](https://github.com/M4dGun/t-
 
 **[Tokyo Night info](https://github.com/M4dGun/t-ui_themes/blob/main/themes/Dracula_V1/README.md)**<br>
 **[Tokyo Night - PURE version download](https://github.com/M4dGun/t-ui_themes/raw/main/themes/Tokyo%20Night/Tokyo_Night_0.9(Pure%20Version).rar)**<br>
-**[Tokyo Night - EXTRA version download](https://github.com/M4dGun/t-ui_themes/raw/main/themes/Dracula_V1/dracula_v1.zip)**<br>
+**[Tokyo Night - EXTRA version download](https://github.com/M4dGun/t-ui_themes/raw/main/themes/Tokyo%20Night/Tokyo_Night_Extra_version_1.0.zip)**<br>
 **[Wallpaper](https://github.com/M4dGun/t-ui_themes/raw/main/themes/Dracula_V1/Dracula_wallpaper.png)**<br>
 
 ____________________________
