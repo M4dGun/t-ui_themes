@@ -1,6 +1,11 @@
  # ARCH NEO-NIGHT
 *- an alternative version to Arch Neofetch made by Aryan Solanki -*
 
+
+<img src="https://github.com/M4dGun/t-ui_themes/blob/main/themes/Arch-neonight/1.jpg" data-canonical-src="https://github.com/M4dGun/t-ui_themes/blob/main/themes/Arch-neonight/1.jpg" width="300" />  <img src="https://github.com/M4dGun/t-ui_themes/blob/main/themes/Arch-neonight/2.jpg" data-canonical-src="https://github.com/M4dGun/t-ui_themes/blob/main/themes/Arch-neonight/2.jpg" width="300" /><br>
+<br>
+
+
 #### 📌 HOW TO INSTALL (manual method)
 1) download zip file, unzip it and replace unzipped files in original T-UI folder (/storage/emulated/0/t-ui) 
 2) restart tui(e) with `restart` command
