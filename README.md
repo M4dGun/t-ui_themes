@@ -108,7 +108,7 @@ ____________________________
 
 
 ### # 7 - Arch NeoNight <br>
-*(credits: original theme by Aryan Solanki [original theme](https://github.com/M4dGun/t-ui_themes/tree/main/themes/Arch-neofetch) - edited by me)*
+*(credits: [original theme](https://github.com/M4dGun/t-ui_themes/tree/main/themes/Arch-neofetch) by Aryan Solanki - edited by me)*
 
 <img src="https://github.com/M4dGun/t-ui_themes/blob/main/themes/Arch-neonight/1.jpg" data-canonical-src="https://github.com/M4dGun/t-ui_themes/blob/main/themes/Arch-neonight/1.jpg" width="300" />  <img src="https://github.com/M4dGun/t-ui_themes/blob/main/themes/Arch-neonight/2.jpg" data-canonical-src="https://github.com/M4dGun/t-ui_themes/blob/main/themes/Arch-neonight/2.jpg" width="300" /><br>
 <br>
