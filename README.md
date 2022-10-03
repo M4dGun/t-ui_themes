@@ -117,6 +117,16 @@ ____________________________
 **[Arch NeoNight download](https://github.com/M4dGun/t-ui_themes/raw/main/themes/Arch-neonight/Arch_NeoNight.zip)**<br>
 ____________________________
 
+
+### # 8 - Archer <br>
+*(credits: Yehoward ER @YeRudITea )*
+
+<img src="https://github.com/M4dGun/t-ui_themes/blob/main/themes/Archer/preview_1.jpg" data-canonical-src="https://github.com/M4dGun/t-ui_themes/blob/main/themes/Archer/preview_1.jpg" width="300" />  <img src="https://github.com/M4dGun/t-ui_themes/blob/main/themes/Archer/preview_2.jpg" data-canonical-src="https://github.com/M4dGun/t-ui_themes/blob/main/themes/Archer/preview_2.jpg" width="300" /><br>
+<br>
+
+**[Archer download](https://github.com/M4dGun/t-ui_themes/raw/main/themes/Archer/Archer.zip)**<br>
+**[Wallpaper](https://github.com/M4dGun/t-ui_themes/raw/main/themes/Archer/wallpaper_archer.jpg)**<br>
+____________________________
 ### # 8 - GRID<br>
 *(credits: Gavin Smith)*
 
