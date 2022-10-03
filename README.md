@@ -127,7 +127,8 @@ ____________________________
 **[Archer download](https://github.com/M4dGun/t-ui_themes/raw/main/themes/Archer/Archer.zip)**<br>
 **[Wallpaper](https://github.com/M4dGun/t-ui_themes/raw/main/themes/Archer/wallpaper_archer.jpg)**<br>
 ____________________________
-### # 8 - GRID<br>
+
+### # 9 - GRID<br>
 *(credits: Gavin Smith)*
 
 <img src="https://github.com/M4dGun/t-ui_themes/blob/main/Grid_theme/screenshot_GRID.jpg" data-canonical-src="https://github.com/M4dGun/t-ui_themes/blob/main/Grid_theme/screenshot_GRID.jpg" width="300" />
@@ -138,7 +139,7 @@ ____________________________
 ____________________________
 
 
-### # 9 - T-ui Dev 2<br>
+### # 10 - T-ui Dev 2<br>
 *(credits: Vram)*
 
 <img src="https://github.com/M4dGun/t-ui_themes/blob/main/themes/t-ui_dev_2/IMG_20220408_201257_171.jpg" data-canonical-src="https://github.com/M4dGun/t-ui_themes/blob/main/themes/t-ui_dev_2/IMG_20220408_201257_171.jpg" width="300" />
@@ -149,7 +150,7 @@ ____________________________
 ____________________________
 
 
-### # 10 - T-ui Dev 2.3<br>
+### # 11 - T-ui Dev 2.3<br>
 *(credits: Vram)*
 
 <img src="https://github.com/M4dGun/t-ui_themes/blob/main/themes/t-ui_dev_2.3/t-ui_Dev-2.3_preview2.jpg" data-canonical-src="https://github.com/M4dGun/t-ui_themes/blob/main/themes/t-ui_dev_2.3/t-ui_Dev-2.3_preview2.jpg" width="300" />
@@ -158,7 +159,7 @@ ____________________________
 **No available wallpaper**<br>
 ____________________________
 
-### # 11 - Girls Frontline 1 (UMP45)<br>
+### # 12 - Girls Frontline 1 (UMP45)<br>
 *(credits: @deadrabbit404)*
 
 <img src="https://github.com/M4dGun/t-ui_themes/blob/main/themes/Girls%20Frontline%20(UMP45)/preview_2.jpg" data-canonical-src="https://github.com/M4dGun/t-ui_themes/blob/main/themes/Girls%20Frontline%20(UMP45)/preview_2.jpg" width="300" />
@@ -169,7 +170,7 @@ ____________________________
 ____________________________
 
 
-### # 12 - Girls Frontline 2 (M4A1)<br>
+### # 13 - Girls Frontline 2 (M4A1)<br>
 *(credits: @deadrabbit404)*
 
 <img src="https://github.com/M4dGun/t-ui_themes/blob/main/themes/Girls%20Frontline%20(M4A1)/preview_1.jpg" data-canonical-src="https://github.com/M4dGun/t-ui_themes/blob/main/themes/Girls%20Frontline%20(M4A1)/preview_1.jpg" width="300" />
@@ -180,7 +181,7 @@ ____________________________
 ____________________________
 
 
-### # 13 - Arch-neofetch (version 1)<br>
+### # 14 - Arch-neofetch (version 1)<br>
 *(credits: Aryan Solanki [@kiteshwar-pujara](https://github.com/kiteshwar-pujara) )*
 
 <img src="https://github.com/M4dGun/t-ui_themes/blob/main/themes/Arch-neofetch/Arch_Neofetch_V2_preview.jpg" data-canonical-src="https://github.com/M4dGun/t-ui_themes/blob/main/themes/Arch-neofetch/Arch_Neofetch_V2_preview.jpg" width="300" />
@@ -191,7 +192,7 @@ ____________________________
 ____________________________
 
 
-### # 14 - Koban<br>
+### # 15 - Koban<br>
 *(credits: Sharif)*
 
 <img src="https://github.com/M4dGun/t-ui_themes/blob/main/themes/Koban/koban_preview.jpg" data-canonical-src="https://github.com/M4dGun/t-ui_themes/blob/main/themes/Koban/koban_preview.jpg" width="300" />
@@ -202,7 +203,7 @@ ____________________________
 
 
 
-### # 15 - WallX<br>
+### # 16 - WallX<br>
 *(credits: S̵̓t̴͝ë̸́v̴̐e̸̒)*
 
 <img src="https://github.com/M4dGun/t-ui_themes/blob/main/WallX_theme/screenshot_WallX.jpg" data-canonical-src="https://github.com/M4dGun/t-ui_themes/blob/main/WallX_theme/screenshot_WallX.jpg" width="300" />
@@ -212,7 +213,7 @@ ____________________________
 ____________________________
 
 
-### # 16 - TOMBOY GIRL<br>
+### # 17 - TOMBOY GIRL<br>
 *(credits: @Ferytell)*
 
 <img src="https://github.com/M4dGun/t-ui_themes/blob/main/Tomboy.girl_theme/screenshot_tomboy_girl.jpg" data-canonical-src="https://github.com/M4dGun/t-ui_themes/blob/main/Tomboy.girl_theme/screenshot_tomboy_girl.jpg" width="300" />
@@ -222,7 +223,7 @@ ____________________________
 ____________________________
 
 
-### # 17 - Mellogram<br>
+### # 18 - Mellogram<br>
 *(credits: Mell [@Holdy_bot]⁣)*
 
 <img src="https://github.com/M4dGun/t-ui_themes/blob/main/themes/Mellogram/Mellogram_preview.jpg" data-canonical-src="https://github.com/M4dGun/t-ui_themes/blob/main/themes/Mellogram/Mellogram_preview.jpg" width="300" />
