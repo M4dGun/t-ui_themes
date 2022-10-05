@@ -21,7 +21,7 @@ Its main functions are:
 
 ## 📌 Prerequisites:
 * [T-UI Expert](https://github.com/v1nc/T-UI-Expert/releases/download/v0.4.4e/de.reckendrees.systems.tui.expert_fdroid_v.0.4.4e.apk)
-* TEL / Termux or Busybox (the script needs to access curl or wget to execute some commands)
+* Termux/TEL or Busybox (the script needs to access curl or wget to execute some commands)
 
 
 ## 📌 How to install
@@ -30,8 +30,12 @@ Its main functions are:
 * Download [install_ttm.zip](https://github.com/M4dGun/t-ui_themes/raw/main/theme-manager/install_ttm1.zip) and extract it into your internal storage ( /storage/emulated/0 ).
 * On t-ui, change directory to the extracted folder if you are in a location other than the internal memory. 
 * Then type `sh install_ttm.sh` and wait for installation to finish.
+* (Optional) If you can't install ttm via t-ui, you need to use Termux/TEL or another Terminal Emulator and use bash as the interpreter. So instead to type `sh install_ttm.sh`, you have to open Termux (or TEL) and type: `bash install_ttm.sh`. Please check the [guide on using ttm via Termux or TEL](https://github.com/M4dGun/t-ui_themes/edit/main/theme-manager/README.md#case-3%EF%B8%8F%E2%83%A3----through-termuxtel-or-another-terminal-emulator)
 * When setup is done, `restart` or `refresh` t-ui.
-* (Optional) If you can't install ttm via t-ui, you need to use Termux / TEL or another Terminal Emulator and use bash as the interpreter: `bash install_ttm.sh`
+
+
+
+
 
 <br>
 NOTE: if you can't install ttm anyway, because you don't have root or because the script doesn't find curl or wget, install ttm manually<br>
@@ -47,9 +51,7 @@ NOTE: if you can't install ttm anyway, because you don't have root or because th
 * Save file and `restart` or `refresh` t-ui.
 
 
-## 📌 How to use 
-
-[Work in Progress...]
+## 📌 How to use ttm
 
 **You can use the script in 3 different ways:<br>**
 1️⃣. Through T-UI Expert with root (easier method)<br>
@@ -59,27 +61,30 @@ NOTE: if you can't install ttm anyway, because you don't have root or because th
 
 ### CASE 1️⃣ -- Through T-UI Expert with root
 
-If you are rooted then export Termux/TEL user bin folder into the $PATH. From tuie type:
-
+If you have a rooted device then export Termux/TEL user bin folder into the $PATH. From tuie type:<br>
 `export PATH=$PATH:/data/data/com.termux/files/usr/bin/:/data/data/com.termux/files/usr/bin/applets && su -c tsu`
+
+
+**Important:** *This needs to be done for every session like if TUI Expert app re-launchs or the phone is rebooted etc.. so add an alias called <b>init</b>, type:*<br>
+`alias -file` <br>
+
+*Copy and paste this line at the end of file:*<br>
+`init=export PATH=$PATH:/data/data/com.termux/files/usr/bin/:/data/data/com.termux/files/usr/bin/applets && su -c tsu` <br>
+
+*Save and refresh t-ui Expert.*<br>
+***When you reboot your device or restart t-uie, just type `init`.*** <br>
 
 >**NOTE**: *If you are using Termux instead of TEL, it is likely that you need to install the `tsu` package, from Termux then type:
 `pkg install tsu` <br>
 >This step is not mandatory, you can use ttm script even without tsu package but you will need to change the "init" alias as follows:
 `init=export PATH=$PATH:/data/data/com.termux/files/usr/bin/:/data/data/com.termux/files/usr/bin/applets` <br> 
->and remember, whenever you want to use the ttm 'install' and/or 'update' options, or the termux commands from T-UI, you will first have to type `su` and then `init` commands.*
+>and remember, whenever you want to use the ttm 'install' and/or 'update' commands, or the termux (integration) commands from T-UI, you will first have to type `su` and then `init` commands.*
       
 Now you can use all commands of Termux bin folder from tuie. <br>
 Test it: type `curl --help`<br>
 
-Now type `ttm -h` to view all available commands.<br>
+Now type `ttm -h` to view all <b>ttm</b> available commands.<br>
 
-**Important:** *This needs to be done for every session like if TUI Expert app re-launchs or the phone is rebooted etc.. so add an alias called init, type:*<br>
-`alias -file` <br>
-*Copy and paste this line at the end of file:*<br>
-`init=export PATH=$PATH:/data/data/com.termux/files/usr/bin/:/data/data/com.termux/files/usr/bin/applets && su -c tsu` <br>
-*Save and refresh t-ui Expert.*
-***When you reboot your device or restart t-uie, just type `init`.*** <br>
 
 P.S. With root, another possibility is to install the Busybox static binaries through the Magisk module called: **Busybox for Android NDK**
 
@@ -89,15 +94,24 @@ P.S. With root, another possibility is to install the Busybox static binaries th
 
 
 
-To run ttm script in T-UI Expert without root, you need to be able to run the curl/wget command without the need for T-UI Expert's Termux/TEL integration, that is, without the use of the command: `termux curl`/`termux wget`
-
-[W.I.P.....]
-
+To run ttm script in T-UI Expert without root, you need to be able to run the curl/wget command without the need for T-UI Expert's Termux/TEL integration, that is, without the use of the command: `termux curl`/`termux wget`<br>
+If you are unable to do this, I recommend using Termux (or TEL) - check the next point.
 <br>
 
 ### CASE 3️⃣ -- Through Termux/TEL or another Terminal emulator
 
+#### With TERMUX):<br>
+* Download [install_ttm.zip](https://github.com/M4dGun/t-ui_themes/raw/main/theme-manager/install_ttm1.zip) and extract it into your internal storage ( /storage/emulated/0 ).
+* Now install F-droid app: https://f-droid.org/F-Droid.apk
+* Open F-Droid, search and install Termux
+* Check that Termux has memory access permission activated. In t-ui(e) type: `apps -st Termux` and check memory permission.
+* Run Termux and type: `cd /storage/emulated/0`  - or type the directory where you unzipped the install_ttm.zip file
+* Now install wget, type `pkg install wget`
+* Update Termux packages, type `pkg update`
+
+
 #### With TEL):
+* Download [install_ttm.zip](https://github.com/M4dGun/t-ui_themes/raw/main/theme-manager/install_ttm1.zip) and extract it into your internal storage ( /storage/emulated/0 ).
 edit your ~/.zhsrc file with (for example) nano, type: <br>
 `nano ~/.zhsrc` <br>
 and add the following lines:<br>
@@ -110,10 +124,7 @@ To check themes previews via GitHub, type: `ttm-p`<br>
 Type `ttm -h` to view all the other commands.<br>
 <br>
 
-#### With TERMUX):<br>
-<br>
-WIP....<br>
-<br>
+
 
 ## TTM options
 WIP...
