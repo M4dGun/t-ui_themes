@@ -181,7 +181,7 @@ ____________________________
 ____________________________
 
 
-### Arch-neofetch (version 1)<br>
+### Arch-neofetch (version 1.1)<br>
 *(credits: Aryan Solanki [@kiteshwar-pujara](https://github.com/kiteshwar-pujara) )*
 
 <img src="https://github.com/M4dGun/t-ui_themes/blob/main/themes/Arch-neofetch/Arch_Neofetch_V2_preview.jpg" data-canonical-src="https://github.com/M4dGun/t-ui_themes/blob/main/themes/Arch-neofetch/Arch_Neofetch_V2_preview.jpg" width="300" />
