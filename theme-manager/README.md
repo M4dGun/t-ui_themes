@@ -24,9 +24,9 @@ Its main functions are:
 * Termux/TEL or Busybox (the script needs to access curl or wget to execute some commands)
 
 
-## 📌 How to install
+## 📌 How to install ttm
 
-**Option 1: automatic download**
+**Option 1: automatic way**
 * Download [install_ttm.zip](https://github.com/M4dGun/t-ui_themes/raw/main/theme-manager/install_ttm1.zip) and extract it into your internal storage ( /storage/emulated/0 ).
 * On t-ui, change directory to the extracted folder if you are in a location other than the internal memory. 
 * Then type `sh install_ttm.sh` and wait for installation to finish.
@@ -41,7 +41,7 @@ Its main functions are:
 NOTE: if you can't install ttm anyway, because you don't have root or because the script doesn't find curl or wget, install ttm manually<br>
 <br>
 
-**Option 2: manual download**
+**Option 2: manual way**
 * Download [ttm script](https://github.com/M4dGun/t-ui_themes/raw/main/theme-manager/ttm.zip) and extract it into your internal storage ( /storage/emulated/0 ).
 * On t-ui Expert type:
 * `alias -file`
