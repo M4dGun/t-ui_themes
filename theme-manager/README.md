@@ -107,8 +107,9 @@ If you are unable to do this, I recommend using Termux (or TEL) - check the next
 * Check that Termux has memory access permission activated. In t-ui(e) type: `apps -st Termux` and check memory permission.
 * Run Termux and type: `cd /storage/emulated/0`  - or type the directory where you unzipped the install_ttm.zip file
 * Now install wget, type `pkg install wget`
-* Update Termux packages, type `pkg update`
- W.I.P.
+* Update Termux packages, type `pkg update` <br>
+
+[..... W.I.P. .... ]
 
 #### With TEL):
 * Download [install_ttm.zip](https://github.com/M4dGun/t-ui_themes/raw/main/theme-manager/install_ttm1.zip) and extract it into your internal storage ( /storage/emulated/0 ).
