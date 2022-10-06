@@ -27,19 +27,11 @@ Its main functions are:
 ## 📌 How to install ttm
 
 **Option 1: automatic way**
-* Download [install_ttm.zip](https://github.com/M4dGun/t-ui_themes/raw/main/theme-manager/install_ttm1.zip) and extract it into your internal storage ( /storage/emulated/0 ).
-* On t-ui, change directory to the extracted folder if you are in a location other than the internal memory. 
-* Then type `sh install_ttm.sh` and wait for installation to finish.
-* (Optional) If you can't install ttm via t-ui, you need to use Termux/TEL or another Terminal Emulator and use bash as the interpreter. So instead to type `sh install_ttm.sh`, you have to open Termux (or TEL) and type: `bash install_ttm.sh`. Please check the [guide on using ttm via Termux or TEL](https://github.com/M4dGun/t-ui_themes/edit/main/theme-manager/README.md#case-3%EF%B8%8F%E2%83%A3----through-termuxtel-or-another-terminal-emulator)
-* When setup is done, `restart` or `refresh` t-ui.
-
-
-
-
-
-<br>
-NOTE: if you can't install ttm anyway, because you don't have root or because the script doesn't find curl or wget, install ttm manually<br>
-<br>
+* Download [install_ttm.zip](https://github.com/M4dGun/t-ui_themes/raw/main/theme-manager/install_ttm1.zip) and extract it into your internal storage ( /storage/emulated/0 )
+* On t-ui, change directory to the extracted folder if you are in a location other than the internal memory
+* Then type `sh install_ttm.sh` and wait for installation to finish
+* When setup is done, `restart` or `refresh` t-ui
+* NOTE: If you can't install ttm via t-ui because you don't have root or because the script doesn't find curl or wget, you need to use Termux/TEL or another Terminal Emulator and use bash as the interpreter. So instead to type `sh install_ttm.sh`, you have to open Termux (or TEL) and type: `bash install_ttm.sh`. Please check the [guide on using ttm via Termux or TEL](https://github.com/M4dGun/t-ui_themes/edit/main/theme-manager/README.md#case-3%EF%B8%8F%E2%83%A3----through-termuxtel-or-another-terminal-emulator)
 
 **Option 2: manual way**
 * Download [ttm script](https://github.com/M4dGun/t-ui_themes/raw/main/theme-manager/ttm.zip) and extract it into your internal storage ( /storage/emulated/0 ).
@@ -105,21 +97,23 @@ If you are unable to do this, I recommend using Termux (or TEL) - check the next
 * Now install F-droid app: https://f-droid.org/F-Droid.apk
 * Open F-Droid, search and install Termux
 * Check that Termux has memory access permission activated. In t-ui(e) type: `apps -st Termux` and check memory permission.
-* Run Termux and type: `cd /storage/emulated/0`  - or type the directory where you unzipped the install_ttm.zip file
-* Now install wget, type `pkg install wget`
+* Now run Termux and install wget, type `pkg install wget`
 * Update Termux packages, type `pkg update` <br>
+* Note: if during the package update, messages like *"what would you like to do about it?"* appear, type "N" and press enter (N means "keep your currently-installed file version")
+* Once the packages have been updated, type `cd /storage/emulated/0`  - or type the directory where you unzipped the install_ttm.zip file
+* Now run the `bash install_ttm.sh` command to install <b>ttm</b>
+* 
 
 [..... W.I.P. .... ]
 
 #### With TEL):
 * Download [install_ttm.zip](https://github.com/M4dGun/t-ui_themes/raw/main/theme-manager/install_ttm1.zip) and extract it into your internal storage ( /storage/emulated/0 ).
-edit your ~/.zhsrc file with (for example) nano, type: <br>
-`nano ~/.zhsrc` <br>
-and add the following lines:<br>
+* edit your ~/.zhsrc file with (for example) nano, type:`nano ~/.zhsrc` and add the following lines:<br>
 * `alias ttm='bash /storage/emulated/0/ttm'`
 * `alias ttm-p='am start -a android.intent.action.VIEW -d https://github.com/M4dGun/t-ui_themes'`
-
-Now reload .zhsrc, type: `source ~/.zshrc`<br>
+* Save .zhsrc file and exit: CTRL + S and CTRL + X
+* Now reload .zhsrc, type: `source ~/.zshrc`<br>
+[....W,I,P.....]
 
 To check themes previews via GitHub, type: `ttm-p`<br>
 Type `ttm -h` to view all the other commands.<br>
