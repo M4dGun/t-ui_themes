@@ -192,6 +192,15 @@ ____________________________
 ____________________________
 
 
+### Clean T-ui<br>
+*(credits: Ghazi)*
+
+<img src="https://github.com/M4dGun/t-ui_themes/blob/main/themes/Clean-tui/preview_clean_tui_by_Ghazi.jpg" data-canonical-src="https://github.com/M4dGun/t-ui_themes/blob/main/themes/Clean-tui/preview_clean_tui_by_Ghazi.jpg" width="300" />
+
+**[Clean T-ui download](https://github.com/M4dGun/t-ui_themes/raw/main/themes/Clean-tui/Clean-tui.zip)**<br>
+
+____________________________
+
 ### Koban<br>
 *(credits: Sharif)*
 
