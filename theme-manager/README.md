@@ -31,7 +31,7 @@ Its main functions are:
 * On t-ui, change directory to the extracted folder if you are in a location other than the internal memory
 * Then type `sh install_ttm.sh` and wait for installation to finish
 * When setup is done, `restart` or `refresh` t-ui
-* NOTE: If you can't install ttm via t-ui because you don't have root or because the script doesn't find curl or wget, you need to use Termux/TEL or another Terminal Emulator and use bash as the interpreter. So instead to type `sh install_ttm.sh`, you have to open Termux (or TEL) and type: `bash install_ttm.sh`. Please check the [guide on using ttm via Termux or TEL](https://github.com/M4dGun/t-ui_themes/edit/main/theme-manager/README.md#case-3%EF%B8%8F%E2%83%A3----through-termuxtel-or-another-terminal-emulator)
+* NOTE: If you can't install ttm via t-ui because you don't have root or because the script doesn't find curl or wget, follow next step: manual way.
 
 **Option 2: manual way**
 * Download [ttm script](https://github.com/M4dGun/t-ui_themes/raw/main/theme-manager/ttm.zip) and extract it into your internal storage ( /storage/emulated/0 ).
