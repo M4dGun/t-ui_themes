@@ -245,10 +245,9 @@ ____________________________
 ### Cosmic <br>
 *(credits: SealyJ aka Giuseppe )*
 
-<img src="https://github.com/M4dGun/t-ui_themes/blob/main/themes/Archer/preview_1.jpg" data-canonical-src="https://github.com/M4dGun/t-ui_themes/blob/main/themes/Archer/preview_1.jpg" width="300" />  <img src="https://github.com/M4dGun/t-ui_themes/blob/main/themes/Archer/preview_2.jpg" data-canonical-src="https://github.com/M4dGun/t-ui_themes/blob/main/themes/Archer/preview_2.jpg" width="300" /><br>
-<br>
+<img src="https://github.com/M4dGun/t-ui_themes/raw/main/themes/Cosmic/%23Cosmic_preview.jpg" data-canonical-src="https://github.com/M4dGun/t-ui_themes/raw/main/themes/Cosmic/%23Cosmic_preview.jpg" width="300" />
 
-**[Archer download](https://github.com/M4dGun/t-ui_themes/raw/main/themes/Archer/Archer.zip)**<br>
+**[Cosmic download](https://github.com/M4dGun/t-ui_themes/raw/main/themes/Cosmic/Cosmic.rar)**<br>
 **[Wallpaper](https://github.com/M4dGun/t-ui_themes/raw/main/themes/Archer/wallpaper_archer.jpg)**<br>
 ____________________________
 
