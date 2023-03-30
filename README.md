@@ -248,7 +248,6 @@ ____________________________
 <img src="https://github.com/M4dGun/t-ui_themes/raw/main/themes/Cosmic/%23Cosmic_preview.jpg" data-canonical-src="https://github.com/M4dGun/t-ui_themes/raw/main/themes/Cosmic/%23Cosmic_preview.jpg" width="300" />
 
 **[Cosmic download](https://github.com/M4dGun/t-ui_themes/raw/main/themes/Cosmic/Cosmic.rar)**<br>
-**[Wallpaper](https://github.com/M4dGun/t-ui_themes/raw/main/themes/Archer/wallpaper_archer.jpg)**<br>
 ____________________________
 
 
