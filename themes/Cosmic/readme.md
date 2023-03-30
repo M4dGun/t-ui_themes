@@ -6,4 +6,4 @@ Here is: #Cosmic
 - custom todo list / display method
 
 
-# SealyJ aka Giuseppe - telegram @sealyj default aliases from theme
+SealyJ aka Giuseppe - telegram @sealyj default aliases from theme
