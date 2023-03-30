@@ -7,3 +7,10 @@ Here is: #Cosmic
 
 
 SealyJ aka Giuseppe - telegram @sealyj default aliases from theme
+
+
+
+<img src="https://github.com/M4dGun/t-ui_themes/raw/main/themes/Cosmic/%23Cosmic_preview.jpg" data-canonical-src="https://github.com/M4dGun/t-ui_themes/raw/main/themes/Cosmic/%23Cosmic_preview.jpg" width="250" /><br>
+<br>
+
+
