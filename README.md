@@ -241,7 +241,20 @@ ____________________________
 **[Wallpaper](https://github.com/M4dGun/t-ui_themes/raw/main/themes/Mellogram/Wallpaper_Mellogram.jpg)**<br>
 ____________________________
 
+
+### Cosmic <br>
+*(credits: SealyJ aka Giuseppe )*
+
+<img src="https://github.com/M4dGun/t-ui_themes/blob/main/themes/Archer/preview_1.jpg" data-canonical-src="https://github.com/M4dGun/t-ui_themes/blob/main/themes/Archer/preview_1.jpg" width="300" />  <img src="https://github.com/M4dGun/t-ui_themes/blob/main/themes/Archer/preview_2.jpg" data-canonical-src="https://github.com/M4dGun/t-ui_themes/blob/main/themes/Archer/preview_2.jpg" width="300" /><br>
+<br>
+
+**[Archer download](https://github.com/M4dGun/t-ui_themes/raw/main/themes/Archer/Archer.zip)**<br>
+**[Wallpaper](https://github.com/M4dGun/t-ui_themes/raw/main/themes/Archer/wallpaper_archer.jpg)**<br>
+____________________________
+
+
+
 ## Contact
 
-
+Telegram: https://t.me/UnderTheGun1
 
