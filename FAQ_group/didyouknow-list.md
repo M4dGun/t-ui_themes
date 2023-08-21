@@ -12,6 +12,9 @@ To view all the tips, simply check the list below or search for the word <i>#did
 ### [#didyouknow - 02: Add shortcut to webpages](https://github.com/M4dGun/t-ui_themes/blob/main/FAQ_group/didyouknow_02.md)
 
 
+### [#didyouknow - 03: Quickly search settings in xml files](https://github.com/M4dGun/t-ui_themes/blob/main/FAQ_group/didyouknow_03.md)
+
+
 <br>
 
 #didyouknow - 03: ......<br>
