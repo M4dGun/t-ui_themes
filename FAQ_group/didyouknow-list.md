@@ -17,8 +17,8 @@ To view all the tips, simply check the list below or search for the word <i>#did
 
 <br>
 
-#didyouknow - 03: ......<br>
+[WIP]
 
 #didyouknow - 04: ......<br>
 
-[WIP]<br>
+<br>
