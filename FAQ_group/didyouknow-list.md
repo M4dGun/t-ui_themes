@@ -1,8 +1,7 @@
 # #USEFUL ALIASES
 
-#### 📢📢  Ladies and gentlemen, I present to you a new column: #didyouknow?
+#### 📢📢  On this page I will add various useful aliases that can simplify and speed up the use of more complex commands. Enjoy the reading
 
-**On this page I will add various useful aliases that can simplify and speed up the use of more complex commands. Enjoy the reading
 <br>
 
 ### [#01: Quick alias](https://github.com/M4dGun/t-ui_themes/blob/main/FAQ_group/didyouknow_01.md)
