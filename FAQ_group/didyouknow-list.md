@@ -1,6 +1,6 @@
 # #USEFUL ALIASES
 
-#### 📢📢  On this page I will add various useful aliases that can simplify and speed up the use of more complex commands. Enjoy the reading
+#### 📢📢  On this page you can find various very useful aliases that can simplify and speed up the use of more complex commands. Enjoy the reading
 
 <br>
 
