@@ -1,18 +1,17 @@
-# #didyouknow
+# #USEFUL ALIASES
 
 #### 📢📢  Ladies and gentlemen, I present to you a new column: #didyouknow?
 
-**With this column I will post messages containing little tips about T-UI configuration, lesser known options or useful commands.**<br>
-To view all the tips, simply check the list below or search for the word <i>#didyouknow</i> in t-ui Telegram (main) group.
+**On this page I will add various useful aliases that can simplify and speed up the use of more complex commands. Enjoy the reading
 <br>
 
-### [#didyouknow - 01: Quick alias](https://github.com/M4dGun/t-ui_themes/blob/main/FAQ_group/didyouknow_01.md)
+### [#01: Quick alias](https://github.com/M4dGun/t-ui_themes/blob/main/FAQ_group/didyouknow_01.md)
 
 
-### [#didyouknow - 02: Add shortcut to webpages](https://github.com/M4dGun/t-ui_themes/blob/main/FAQ_group/didyouknow_02.md)
+### [#02: Add shortcut to webpages](https://github.com/M4dGun/t-ui_themes/blob/main/FAQ_group/didyouknow_02.md)
 
 
-### [#didyouknow - 03: Quickly search settings in xml files](https://github.com/M4dGun/t-ui_themes/blob/main/FAQ_group/didyouknow_03.md)
+### [#03: Quickly search settings in xml files](https://github.com/M4dGun/t-ui_themes/blob/main/FAQ_group/didyouknow_03.md)
 
 
 <br>
